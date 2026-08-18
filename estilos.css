@@ -223,7 +223,7 @@ h2 {
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-/* Fondos distintos para cada uno de los 8 botones */
+/* Fondos distintos para cada uno de los 8 botones
 .btn-modulo:nth-child(1) { background-color: #34495e; }
 .btn-modulo:nth-child(2) { background-color: #e67e22; }
 .btn-modulo:nth-child(3) { background-color: #9b59b6; }
@@ -231,7 +231,23 @@ h2 {
 .btn-modulo:nth-child(5) { background-color: #d35400; }
 .btn-modulo:nth-child(6) { background-color: #27ae60; }
 .btn-modulo:nth-child(7) { background-color: #2980b9; }
-.btn-modulo:nth-child(8) { background-color: #8e44ad; }
+.btn-modulo:nth-child(8) { background-color: #8e44ad; }*/
+
+
+/* Fondos distintos y bien diferenciados en tonos pastel para cada uno de los 8 botones */
+.btn-modulo:nth-child(1) { background-color: #AEC6CF; } /* Azul Pastel */
+.btn-modulo:nth-child(2) { background-color: #FFD1A9; } /* Naranja/Melocotón Pastel */
+.btn-modulo:nth-child(3) { background-color: #E2BFFF; } /* Violeta/Lila Pastel */
+.btn-modulo:nth-child(4) { background-color: #B4F8C8; } /* Menta/Verde claro Pastel */
+.btn-modulo:nth-child(5) { background-color: #FFB3BA; } /* Rosa Pastel */
+.btn-modulo:nth-child(6) { background-color: #FBE7A1; } /* Amarillo Vainilla Pastel */
+.btn-modulo:nth-child(7) { background-color: #A0E7E5; } /* Turquesa/Agua Pastel */
+.btn-modulo:nth-child(8) { background-color: #E6C2B1; } /* Marrón Claro/Arena Pastel */
+
+
+
+
+
 
 /* Efecto hover general */
 .btn-modulo:hover:not([disabled]) {
