@@ -1,0 +1,174 @@
+{
+  "PROVINCIAS": [
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de Andalucía?",
+      "opciones": [
+        "Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, Sevilla",
+        "Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga",
+        "Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, Sevilla, Murcia"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de Aragón?",
+      "opciones": [
+        "Huesca, Teruel, Zaragoza",
+        "Huesca, Teruel",
+        "Huesca, Teruel, Zaragoza, Soria"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias del Principado de Asturias?",
+      "opciones": [
+        "Asturias, Cantabria",
+        "Asturias",
+        "Asturias, León"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de las Illes Balears?",
+      "opciones": [
+        "Illes Balears",
+        "Illes Balears, Las Palmas",
+        "Illes Balears, Alicante"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de Canarias?",
+      "opciones": [
+        "Las Palmas",
+        "Las Palmas, Santa Cruz de Tenerife",
+        "Las Palmas, Santa Cruz de Tenerife, Cádiz"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de Cantabria?",
+      "opciones": [
+        "Cantabria",
+        "Cantabria, Asturias",
+        "Cantabria, Vizcaya"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de Castilla-La Mancha?",
+      "opciones": [
+        "Albacete, Ciudad Real, Cuenca, Guadalajara, Toledo",
+        "Albacete, Ciudad Real, Cuenca, Toledo",
+        "Albacete, Ciudad Real, Cuenca, Guadalajara, Toledo, Madrid"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de Castilla y León?",
+      "opciones": [
+        "Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid, Zamora",
+        "Ávila, Burgos, León, Palencia, Salamanca, Segovia, Valladolid, Zamora",
+        "Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid, Zamora, La Rioja"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de Cataluña?",
+      "opciones": [
+        "Barcelona, Girona, Lleida, Tarragona",
+        "Barcelona, Girona, Tarragona",
+        "Barcelona, Girona, Lleida, Tarragona, Castellón"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de la Comunitat Valenciana?",
+      "opciones": [
+        "Alicante, Castellón, Valencia",
+        "Alicante, Valencia",
+        "Alicante, Castellón, Valencia, Murcia"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de Extremadura?",
+      "opciones": [
+        "Badajoz",
+        "Badajoz, Cáceres",
+        "Badajoz, Cáceres, Salamanca"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de Galicia?",
+      "opciones": [
+        "A Coruña, Lugo, Ourense, Pontevedra",
+        "A Coruña, Lugo, Pontevedra",
+        "A Coruña, Lugo, Ourense, Pontevedra, Asturias"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de la Comunidad de Madrid?",
+      "opciones": [
+        "Madrid",
+        "Madrid, Toledo",
+        "Madrid, Guadalajara"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de la Región de Murcia?",
+      "opciones": [
+        "Murcia",
+        "Murcia, Almería",
+        "Murcia, Alicante"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de Navarra?",
+      "opciones": [
+        "Navarra",
+        "Navarra, Álava",
+        "Navarra, La Rioja"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias del País Vasco?",
+      "opciones": [
+        "Álava, Guipúzcoa, Vizcaya",
+        "Álava, Vizcaya",
+        "Álava, Guipúzcoa, Vizcaya, Navarra"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Provincias de las Comunidades Autónomas",
+      "pregunta": "¿Cuál es la opción que contiene todas las provincias de La Rioja?",
+      "opciones": [
+        "La Rioja",
+        "La Rioja, Álava",
+        "La Rioja, Navarra"
+      ],
+      "correcta": "0"
+    }
+  ]
+}

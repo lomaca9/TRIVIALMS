@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRIVIAL LMS</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <div class="contenedor-juego">
+        <header>
+            <h1>TRIVIAL LMS - TEST</h1>
+            <p class="subtitulo">TEST_18/08/2026</p>
+        </header>
+
+        <!-- Selector de Módulo -->
+        <section id="pantalla-inicio" class="tarjeta-modulo">
+            <h2>Selecciona el bloc de pràctica:</h2>
+            <div class="grupo-botones-inicio">
+
+                <!-- BOTÓN : Deshabilitado provisionalmente -->
+                <button class="btn-modulo" disabled>En preparació: TRIVIAL: Gestió auxiliar de personal</button>
+
+                <!-- BOTÓN : Lee de 'PERSONAJES.json' -->
+                <button class="btn-modulo" onclick="iniciarJuego('PERSONAJES')">PERSONAJES</button>
+                 
+                <!-- BOTÓN : Lee de 'CAPITALES.json' -->
+                <button class="btn-modulo" onclick="iniciarJuego('CAPITALES')">CAPITALES</button>
+                
+                <!-- BOTÓN : Lee de 'CIENCIA.json' -->
+                <button class="btn-modulo" onclick="iniciarJuego('CIENCIA')">CIENCIA</button>
+                
+                <!-- BOTÓN : Lee de 'PROVINCIAS.json' -->
+                <button class="btn-modulo" onclick="iniciarJuego('PROVINCIAS')">PROVINCIAS</button>
+                
+                <!-- BOTÓN : Lee de 'MUJERES.json' -->
+                <button class="btn-modulo" onclick="iniciarJuego('MUJERES')">MUJERES</button>
+                
+                <!-- BOTÓN : Lee de 'GEOGRAFIA.json' -->
+                <button class="btn-modulo" onclick="iniciarJuego('GEOGRAFIA')">GEOGRAFIA</button>
+                
+                <!-- BOTÓN : Lee de 'ARTE.json' -->
+                <button class="btn-modulo" onclick="iniciarJuego('ARTE')">ARTE</button>
+
+
+            </div>
+        </section>
+
+        <!-- Interfaz del Test -->
+        <section id="pantalla-test" class="oculto">
+            <div class="barra-progreso">
+                <span id="info-progreso">Pregunta 1 de X</span>
+                <div class="progreso-total"><div id="linea-progreso"></div></div>
+            </div>
+       	
+            <!-- Marcador en tiempo real para el alumno -->
+            <div class="marcador-vivo">
+                <span class="aciertos-vivo">✅ Correctes: <span id="vivo-aciertos">0</span></span>
+                <span class="errores-vivo">❌ Incorrectes: <span id="vivo-errores">0</span></span>
+            </div>
+
+            <div class="tarjeta-pregunta">
+                <p id="texto-pregunta" class="texto-pregunta">Aquí irá la pregunta...</p>
+                <div id="contenedor-opciones" class="contenedor-opciones">
+                    <!-- Los botones de opciones se generarán dinámicamente -->
+                </div>
+            </div>
+
+            <div class="controles-navegacion">
+                <button id="btn-siguiente" class="btn-accion oculto" onclick="siguientePregunta()">Següent Pregunta</button>
+            </div>
+        </section>
+
+        <!-- Pantalla de Resultados -->
+        <section id="pantalla-resultados" class="oculto">
+            <div class="tarjeta-resultados">
+                <h2>Exercici Finalitzat</h2>
+                <div class="marcador">
+                    <p>Encerts: <span id="aciertos">0</span></p>
+                    <p>Errors: <span id="errores">0</span></p>
+                    <p class="nota-final">Resultat: <span id="nota-num">0</span> / 10</p>
+                </div>
+                <button class="btn-reiniciar" onclick="volverAlInicio()">Segueix practicant</button>
+            </div>
+        </section>
+    </div>
+
+    <script src="appTrivial.js"></script>
+</body>
+</html>

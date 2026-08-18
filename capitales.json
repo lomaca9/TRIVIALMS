@@ -1,0 +1,494 @@
+{
+  "CAPITALES": [
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Álava?",
+      "opciones": [
+        "Bilbao",
+        "Vitoria-Gasteiz",
+        "San Sebastián"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Albacete?",
+      "opciones": [
+        "Albacete",
+        "Ciudad Real",
+        "Cuenca"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Alicante?",
+      "opciones": [
+        "Elche",
+        "Alicante",
+        "Benidorm"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Almería?",
+      "opciones": [
+        "Almería",
+        "Granada",
+        "Jaén"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Asturias?",
+      "opciones": [
+        "Gijón",
+        "Avilés",
+        "Oviedo"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Ávila?",
+      "opciones": [
+        "Ávila",
+        "Segovia",
+        "Salamanca"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Badajoz?",
+      "opciones": [
+        "Cáceres",
+        "Badajoz",
+        "Mérida"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Barcelona?",
+      "opciones": [
+        "Barcelona",
+        "Badalona",
+        "Terrassa"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Burgos?",
+      "opciones": [
+        "Burgos",
+        "Aranda de Duero",
+        "Miranda de Ebro"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Cáceres?",
+      "opciones": [
+        "Plasencia",
+        "Cáceres",
+        "Mérida"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Cádiz?",
+      "opciones": [
+        "Jerez de la Frontera",
+        "Algeciras",
+        "Cádiz"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Cantabria?",
+      "opciones": [
+        "Santander",
+        "Torrelavega",
+        "Castro-Urdiales"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Castellón?",
+      "opciones": [
+        "Villarreal",
+        "Castellón de la Plana",
+        "Onda"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Ciudad Real?",
+      "opciones": [
+        "Ciudad Real",
+        "Puertollano",
+        "Alcázar de San Juan"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Córdoba?",
+      "opciones": [
+        "Lucena",
+        "Córdoba",
+        "Montilla"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Cuenca?",
+      "opciones": [
+        "Tarancón",
+        "Cuenca",
+        "San Clemente"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Girona?",
+      "opciones": [
+        "Figueres",
+        "Girona",
+        "Olot"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Granada?",
+      "opciones": [
+        "Granada",
+        "Motril",
+        "Baza"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Guadalajara?",
+      "opciones": [
+        "Sigüenza",
+        "Guadalajara",
+        "Molina de Aragón"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Guipúzcoa?",
+      "opciones": [
+        "San Sebastián",
+        "Eibar",
+        "Irún"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Huelva?",
+      "opciones": [
+        "Huelva",
+        "Lepe",
+        "Ayamonte"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Huesca?",
+      "opciones": [
+        "Barbastro",
+        "Jaca",
+        "Huesca"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Jaén?",
+      "opciones": [
+        "Úbeda",
+        "Jaén",
+        "Linares"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de La Coruña?",
+      "opciones": [
+        "Santiago de Compostela",
+        "A Coruña",
+        "Ferrol"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de La Rioja?",
+      "opciones": [
+        "Logroño",
+        "Calahorra",
+        "Haro"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Las Palmas?",
+      "opciones": [
+        "Santa Cruz de Tenerife",
+        "Arrecife",
+        "Las Palmas de Gran Canaria"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de León?",
+      "opciones": [
+        "Ponferrada",
+        "León",
+        "Astorga"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Lleida?",
+      "opciones": [
+        "Lleida",
+        "Balaguer",
+        "La Seu d'Urgell"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Lugo?",
+      "opciones": [
+        "Monforte de Lemos",
+        "Lugo",
+        "Viveiro"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Madrid?",
+      "opciones": [
+        "Alcalá de Henares",
+        "Madrid",
+        "Móstoles"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Málaga?",
+      "opciones": [
+        "Marbella",
+        "Antequera",
+        "Málaga"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Murcia?",
+      "opciones": [
+        "Cartagena",
+        "Lorca",
+        "Murcia"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Navarra?",
+      "opciones": [
+        "Tudela",
+        "Pamplona",
+        "Estella"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Ourense?",
+      "opciones": [
+        "Ourense",
+        "Verín",
+        "Carballiño"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Palencia?",
+      "opciones": [
+        "Palencia",
+        "Guardo",
+        "Aguilar de Campoo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Pontevedra?",
+      "opciones": [
+        "Vigo",
+        "Pontevedra",
+        "Vilagarcía de Arousa"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Salamanca?",
+      "opciones": [
+        "Salamanca",
+        "Béjar",
+        "Ciudad Rodrigo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Santa Cruz de Tenerife?",
+      "opciones": [
+        "La Laguna",
+        "Santa Cruz de Tenerife",
+        "Puerto de la Cruz"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Segovia?",
+      "opciones": [
+        "Segovia",
+        "Cuéllar",
+        "El Espinar"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Sevilla?",
+      "opciones": [
+        "Dos Hermanas",
+        "Sevilla",
+        "Écija"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Soria?",
+      "opciones": [
+        "Almazán",
+        "Soria",
+        "El Burgo de Osma"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Tarragona?",
+      "opciones": [
+        "Reus",
+        "Tarragona",
+        "Tortosa"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Teruel?",
+      "opciones": [
+        "Teruel",
+        "Alcañiz",
+        "Andorra"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Toledo?",
+      "opciones": [
+        "Talavera de la Reina",
+        "Toledo",
+        "Illescas"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Valencia?",
+      "opciones": [
+        "Gandía",
+        "Torrent",
+        "Valencia"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Valladolid?",
+      "opciones": [
+        "Valladolid",
+        "Medina del Campo",
+        "Tordesillas"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Vizcaya?",
+      "opciones": [
+        "Bilbao",
+        "Getxo",
+        "Barakaldo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Zamora?",
+      "opciones": [
+        "Benavente",
+        "Toro",
+        "Zamora"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Capitales de Provincia",
+      "pregunta": "¿Cuál es la capital de la provincia de Zaragoza?",
+      "opciones": [
+        "Calatayud",
+        "Zaragoza",
+        "Ejea de los Caballeros"
+      ],
+      "correcta": "1"
+    }
+  ]
+}

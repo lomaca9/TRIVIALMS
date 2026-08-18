@@ -1,0 +1,794 @@
+{
+  "MUJERES_QUE_HICIERON_HISTORIA": [
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Katherine Johnson fue una matemática afroamericana que trabajó para la NASA y realizó cálculos fundamentales para las primeras misiones espaciales estadounidenses. ¿Por qué es especialmente famosa?",
+      "opciones": [
+        "Por calcular trayectorias orbitales para misiones espaciales, incluido el vuelo de John Glenn",
+        "Por ser la primera mujer en viajar al espacio",
+        "Por inventar el primer ordenador personal"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién fue la matemática afroamericana de la NASA cuyos cálculos fueron fundamentales para las trayectorias de las primeras misiones espaciales estadounidenses?",
+      "opciones": [
+        "Katherine Johnson",
+        "Rosalind Franklin",
+        "Marie Curie"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Dorothy Vaughan fue una matemática afroamericana que trabajó en la NASA y aprendió FORTRAN para dirigir el proceso de transición hacia la computación electrónica. ¿Por qué es famosa?",
+      "opciones": [
+        "Por su papel como matemática y programadora pionera de la NASA",
+        "Por descubrir la estructura del ADN",
+        "Por ser la primera mujer en caminar sobre la Luna"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién fue la matemática afroamericana que dirigió el grupo West Area Computers y se convirtió en una de las primeras supervisoras afroamericanas de la NASA?",
+      "opciones": [
+        "Dorothy Vaughan",
+        "Katherine Johnson",
+        "Mae Jemison"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Mary Jackson fue una matemática e ingeniera afroamericana que trabajó en la NASA. ¿Por qué es especialmente recordada?",
+      "opciones": [
+        "Por convertirse en una de las primeras ingenieras afroamericanas de la NASA y luchar por la igualdad de oportunidades",
+        "Por ser la primera mujer en ganar un Premio Nobel",
+        "Por descubrir la penicilina"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién fue la primera mujer afroamericana en viajar al espacio?",
+      "opciones": [
+        "Mae Jemison",
+        "Katherine Johnson",
+        "Mary Jackson"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Mae Jemison, médica, ingeniera y astronauta estadounidense, hizo historia en 1992. ¿Por qué?",
+      "opciones": [
+        "Fue la primera mujer afroamericana en viajar al espacio",
+        "Fue la primera mujer en dirigir la NASA",
+        "Fue la primera mujer en descubrir un planeta"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Marie Curie fue una científica pionera en el estudio de la radiactividad. ¿Cuál fue uno de sus grandes logros?",
+      "opciones": [
+        "Descubrió los elementos polonio y radio y recibió dos premios Nobel",
+        "Fue la primera mujer en viajar al espacio",
+        "Inventó el primer teléfono"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién fue la primera persona en recibir dos premios Nobel en dos disciplinas científicas diferentes?",
+      "opciones": [
+        "Marie Curie",
+        "Ada Lovelace",
+        "Rosalind Franklin"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Rosalind Franklin fue una química y cristalógrafa británica cuyo trabajo fue fundamental para comprender la estructura del ADN. ¿Por qué es famosa?",
+      "opciones": [
+        "Por obtener imágenes de difracción de rayos X fundamentales para estudiar la estructura del ADN",
+        "Por descubrir la radiactividad",
+        "Por inventar el ordenador"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué científica realizó la famosa Fotografía 51, una imagen de difracción de rayos X crucial para el estudio de la estructura del ADN?",
+      "opciones": [
+        "Rosalind Franklin",
+        "Marie Curie",
+        "Jane Goodall"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Ada Lovelace es considerada una pionera de la informática. ¿Por qué?",
+      "opciones": [
+        "Escribió un algoritmo destinado a ser procesado por la máquina analítica de Charles Babbage",
+        "Inventó el primer teléfono móvil",
+        "Descubrió la estructura del ADN"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién es considerada por muchos historiadores la primera programadora de la historia?",
+      "opciones": [
+        "Ada Lovelace",
+        "Grace Hopper",
+        "Hedy Lamarr"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Grace Hopper fue una científica informática y oficial de la Armada estadounidense. ¿Por qué es famosa?",
+      "opciones": [
+        "Por sus importantes contribuciones a los lenguajes de programación y al desarrollo de COBOL",
+        "Por descubrir el radio",
+        "Por ser la primera mujer astronauta"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué mujer desarrolló importantes trabajos en informática y fue una de las principales impulsoras de COBOL?",
+      "opciones": [
+        "Grace Hopper",
+        "Ada Lovelace",
+        "Katherine Johnson"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Hedy Lamarr fue una actriz e inventora de origen austriaco. ¿Por qué también es recordada en el ámbito tecnológico?",
+      "opciones": [
+        "Por co-inventar una técnica de salto de frecuencia relacionada con tecnologías posteriores de comunicaciones inalámbricas",
+        "Por inventar el transistor",
+        "Por descubrir la penicilina"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué mujer famosa por su carrera como actriz también desarrolló, junto con George Antheil, una patente relacionada con el salto de frecuencia?",
+      "opciones": [
+        "Hedy Lamarr",
+        "Marlene Dietrich",
+        "Audrey Hepburn"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Jane Goodall es una de las primatólogas más conocidas del mundo. ¿Por qué es famosa?",
+      "opciones": [
+        "Por sus décadas de estudio de los chimpancés salvajes en Tanzania",
+        "Por descubrir la estructura del ADN",
+        "Por ser la primera mujer en viajar al espacio"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué científica británica revolucionó el conocimiento sobre los chimpancés mediante sus estudios en el Parque Nacional de Gombe, en Tanzania?",
+      "opciones": [
+        "Jane Goodall",
+        "Dian Fossey",
+        "Rachel Carson"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Dian Fossey fue una zoóloga estadounidense conocida por sus investigaciones sobre los gorilas de montaña. ¿Por qué es famosa?",
+      "opciones": [
+        "Por sus estudios y defensa de los gorilas de montaña en África",
+        "Por descubrir el radio",
+        "Por ser la primera mujer astronauta"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Rachel Carson fue una bióloga marina y escritora estadounidense. ¿Por qué es especialmente importante?",
+      "opciones": [
+        "Por impulsar el movimiento ecologista moderno con su libro Primavera silenciosa",
+        "Por descubrir la estructura del ADN",
+        "Por desarrollar el primer ordenador"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué científica y escritora publicó Primavera silenciosa, una obra fundamental para el movimiento ecologista moderno?",
+      "opciones": [
+        "Rachel Carson",
+        "Jane Goodall",
+        "Dian Fossey"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Valentina Tereshkova, cosmonauta soviética, hizo historia en 1963. ¿Por qué?",
+      "opciones": [
+        "Fue la primera mujer en viajar al espacio",
+        "Fue la primera mujer en caminar sobre la Luna",
+        "Fue la primera mujer en dirigir una misión de Marte"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién fue la primera mujer en viajar al espacio?",
+      "opciones": [
+        "Valentina Tereshkova",
+        "Sally Ride",
+        "Mae Jemison"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Sally Ride fue astronauta y física estadounidense. ¿Por qué es famosa?",
+      "opciones": [
+        "Fue la primera mujer estadounidense en viajar al espacio",
+        "Fue la primera mujer en viajar al espacio",
+        "Fue la primera mujer en pisar la Luna"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién fue la primera mujer estadounidense en viajar al espacio?",
+      "opciones": [
+        "Sally Ride",
+        "Mae Jemison",
+        "Valentina Tereshkova"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Amelia Earhart fue una pionera de la aviación. ¿Por qué es famosa?",
+      "opciones": [
+        "Por sus vuelos pioneros y por ser la primera mujer en volar sola y sin escalas a través del Atlántico",
+        "Por ser la primera mujer astronauta",
+        "Por inventar el avión"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué aviadora estadounidense fue la primera mujer en volar sola y sin escalas a través del Atlántico?",
+      "opciones": [
+        "Amelia Earhart",
+        "Bessie Coleman",
+        "Valentina Tereshkova"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Bessie Coleman fue una pionera de la aviación estadounidense. ¿Por qué es especialmente recordada?",
+      "opciones": [
+        "Fue la primera mujer afroamericana y también la primera persona de ascendencia afroamericana e indígena estadounidense en obtener una licencia internacional de piloto",
+        "Fue la primera mujer en viajar al espacio",
+        "Fue la primera mujer en pilotar un avión de combate en la Segunda Guerra Mundial"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Rosa Parks se convirtió en un símbolo del movimiento por los derechos civiles en Estados Unidos. ¿Qué ocurrió en 1955?",
+      "opciones": [
+        "Se negó a ceder su asiento a un pasajero blanco en un autobús de Montgomery",
+        "Fue elegida presidenta de Estados Unidos",
+        "Se convirtió en la primera mujer afroamericana en viajar al espacio"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién fue la mujer afroamericana cuyo arresto por negarse a ceder su asiento en un autobús desencadenó un importante boicot en Montgomery?",
+      "opciones": [
+        "Rosa Parks",
+        "Harriet Tubman",
+        "Maya Angelou"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Harriet Tubman fue una abolicionista estadounidense nacida en la esclavitud. ¿Por qué es famosa?",
+      "opciones": [
+        "Por escapar de la esclavitud y ayudar posteriormente a otros esclavizados a alcanzar la libertad mediante la red conocida como Underground Railroad",
+        "Por ser la primera mujer presidenta de Estados Unidos",
+        "Por descubrir la penicilina"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién fue la famosa abolicionista afroamericana que ayudó a numerosos esclavizados a escapar hacia la libertad?",
+      "opciones": [
+        "Harriet Tubman",
+        "Rosa Parks",
+        "Sojourner Truth"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Sojourner Truth fue una activista afroamericana contra la esclavitud y defensora de los derechos de las mujeres. ¿Por qué es famosa?",
+      "opciones": [
+        "Por su lucha contra la esclavitud y por la igualdad de derechos de las mujeres",
+        "Por ser la primera mujer astronauta",
+        "Por descubrir una vacuna"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Emmeline Pankhurst fue una de las principales figuras del movimiento sufragista británico. ¿Por qué es famosa?",
+      "opciones": [
+        "Por luchar por el derecho de las mujeres al voto en el Reino Unido",
+        "Por ser la primera mujer en ganar un Premio Nobel de Física",
+        "Por ser la primera mujer en viajar al espacio"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién fue una de las principales líderes del movimiento sufragista británico y fundadora de la Women's Social and Political Union?",
+      "opciones": [
+        "Emmeline Pankhurst",
+        "Virginia Woolf",
+        "Florence Nightingale"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Simone de Beauvoir fue una filósofa y escritora francesa fundamental para el pensamiento feminista del siglo XX. ¿Por qué es famosa?",
+      "opciones": [
+        "Por su obra El segundo sexo y sus aportaciones al pensamiento feminista y existencialista",
+        "Por descubrir la radiactividad",
+        "Por ser la primera mujer astronauta"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué filósofa y escritora francesa escribió El segundo sexo, una obra fundamental del pensamiento feminista?",
+      "opciones": [
+        "Simone de Beauvoir",
+        "Hannah Arendt",
+        "Virginia Woolf"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Virginia Woolf fue una de las grandes escritoras británicas del siglo XX. ¿Por qué es famosa?",
+      "opciones": [
+        "Por novelas como La señora Dalloway y Al faro y por su influencia en la literatura modernista y el pensamiento feminista",
+        "Por descubrir la estructura del ADN",
+        "Por ser una pionera de la aviación"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién escribió La señora Dalloway y Al faro y fue una figura fundamental del modernismo literario británico?",
+      "opciones": [
+        "Virginia Woolf",
+        "Jane Austen",
+        "George Eliot"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Jane Austen fue una de las grandes escritoras de la literatura inglesa. ¿Por qué es famosa?",
+      "opciones": [
+        "Por novelas como Orgullo y prejuicio y Sentido y sensibilidad",
+        "Por escribir El segundo sexo",
+        "Por ser la primera mujer en ganar un Premio Nobel"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué escritora británica escribió Orgullo y prejuicio?",
+      "opciones": [
+        "Jane Austen",
+        "Emily Brontë",
+        "Virginia Woolf"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Emily Brontë fue una escritora británica conocida principalmente por una novela. ¿Cuál es?",
+      "opciones": [
+        "Cumbres borrascosas",
+        "Orgullo y prejuicio",
+        "Frankenstein"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Mary Shelley fue una escritora británica que creó uno de los grandes mitos de la literatura de ciencia ficción. ¿Qué obra escribió?",
+      "opciones": [
+        "Frankenstein",
+        "Cumbres borrascosas",
+        "Orgullo y prejuicio"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién escribió Frankenstein, considerada una obra pionera de la literatura de ciencia ficción?",
+      "opciones": [
+        "Mary Shelley",
+        "Emily Brontë",
+        "Jane Austen"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Frida Kahlo fue una de las artistas mexicanas más reconocidas del siglo XX. ¿Por qué es famosa?",
+      "opciones": [
+        "Por sus autorretratos y una obra vinculada a su identidad, dolor y experiencia personal",
+        "Por ser una de las primeras arquitectas de México",
+        "Por descubrir una vacuna"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué pintora mexicana es especialmente conocida por sus numerosos autorretratos?",
+      "opciones": [
+        "Frida Kahlo",
+        "Georgia O'Keeffe",
+        "Tamara de Lempicka"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Georgia O'Keeffe fue una importante artista estadounidense del siglo XX. ¿Por qué es famosa?",
+      "opciones": [
+        "Por sus pinturas de flores, paisajes y formas naturales y por ser una figura destacada del arte estadounidense moderno",
+        "Por descubrir la estructura del ADN",
+        "Por ser la primera mujer en viajar al espacio"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Florence Nightingale fue una figura fundamental en la historia de la medicina y la enfermería. ¿Por qué es famosa?",
+      "opciones": [
+        "Por impulsar la profesionalización de la enfermería y mejorar las condiciones sanitarias de los hospitales",
+        "Por descubrir la penicilina",
+        "Por ser la primera mujer cirujana de la historia"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién es considerada una de las fundadoras de la enfermería moderna?",
+      "opciones": [
+        "Florence Nightingale",
+        "Marie Curie",
+        "Elizabeth Blackwell"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Elizabeth Blackwell hizo historia en la medicina estadounidense. ¿Por qué?",
+      "opciones": [
+        "Fue la primera mujer en obtener un título de medicina en Estados Unidos",
+        "Fue la primera mujer en ganar un Premio Nobel de Medicina",
+        "Fue la primera mujer astronauta estadounidense"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Wangari Maathai fue una bióloga y activista medioambiental keniana. ¿Por qué es famosa?",
+      "opciones": [
+        "Por fundar el Green Belt Movement y recibir el Premio Nobel de la Paz",
+        "Por descubrir la penicilina",
+        "Por ser la primera mujer africana en viajar al espacio"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué mujer africana fundó el Green Belt Movement y recibió el Premio Nobel de la Paz en 2004?",
+      "opciones": [
+        "Wangari Maathai",
+        "Ellen Johnson Sirleaf",
+        "Leymah Gbowee"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Ellen Johnson Sirleaf hizo historia en África. ¿Por qué?",
+      "opciones": [
+        "Fue la primera mujer elegida presidenta de un país africano",
+        "Fue la primera mujer africana en viajar al espacio",
+        "Fue la primera mujer africana en recibir un Premio Nobel de Física"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Malala Yousafzai se convirtió en un símbolo mundial de la defensa de la educación de las niñas. ¿Qué reconocimiento recibió en 2014?",
+      "opciones": [
+        "El Premio Nobel de la Paz",
+        "El Premio Nobel de Física",
+        "El Premio Nobel de Literatura"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Quién se convirtió en la persona más joven en recibir un Premio Nobel al ser galardonada con el Nobel de la Paz en 2014?",
+      "opciones": [
+        "Malala Yousafzai",
+        "Greta Thunberg",
+        "Wangari Maathai"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Angela Merkel fue una destacada política europea. ¿Qué cargo ocupó durante muchos años?",
+      "opciones": [
+        "Canciller de Alemania",
+        "Presidenta de la Comisión Europea",
+        "Presidenta de Francia"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Indira Gandhi fue una de las figuras políticas más importantes de la India. ¿Qué cargo ocupó?",
+      "opciones": [
+        "Primera ministra de la India",
+        "Presidenta de Pakistán",
+        "Primera ministra de Bangladesh"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Golda Meir fue una destacada política israelí. ¿Por qué es recordada?",
+      "opciones": [
+        "Fue primera ministra de Israel",
+        "Fue presidenta de Egipto",
+        "Fue primera ministra del Reino Unido"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Margaret Thatcher fue una de las figuras políticas más importantes del Reino Unido durante el siglo XX. ¿Por qué es famosa?",
+      "opciones": [
+        "Fue la primera mujer en ocupar el cargo de primera ministra del Reino Unido",
+        "Fue la primera mujer presidenta de Estados Unidos",
+        "Fue la primera mujer canciller de Alemania"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué política británica fue conocida como la 'Dama de Hierro' y fue primera ministra del Reino Unido?",
+      "opciones": [
+        "Margaret Thatcher",
+        "Theresa May",
+        "Emmeline Pankhurst"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Simone Veil fue una política francesa y superviviente del Holocausto. ¿Por qué es especialmente recordada?",
+      "opciones": [
+        "Por su defensa de los derechos de las mujeres y por impulsar la legalización del aborto en Francia",
+        "Por descubrir la radiactividad",
+        "Por ser la primera mujer en viajar al espacio"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Clara Campoamor fue una política española fundamental en la historia de los derechos de las mujeres. ¿Por qué es famosa?",
+      "opciones": [
+        "Por defender el derecho al voto de las mujeres en España durante la Segunda República",
+        "Por ser la primera mujer presidenta de España",
+        "Por ser una pionera de la aviación española"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué política española defendió con firmeza el sufragio femenino durante los debates de la Constitución de 1931?",
+      "opciones": [
+        "Clara Campoamor",
+        "Victoria Kent",
+        "Dolores Ibárruri"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Dolores Ibárruri, conocida como 'La Pasionaria', fue una destacada dirigente política española del siglo XX. ¿Por qué es famosa?",
+      "opciones": [
+        "Por su papel político durante la Segunda República y la Guerra Civil española y su posterior exilio",
+        "Por ser la primera mujer científica española en la NASA",
+        "Por descubrir una vacuna"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Rigoberta Menchú, activista indígena guatemalteca, recibió el Premio Nobel de la Paz. ¿Por qué fue reconocida?",
+      "opciones": [
+        "Por su lucha por los derechos de los pueblos indígenas y los derechos humanos",
+        "Por sus investigaciones sobre el ADN",
+        "Por su carrera como astronauta"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Qué activista indígena guatemalteca recibió el Premio Nobel de la Paz en 1992?",
+      "opciones": [
+        "Rigoberta Menchú",
+        "Wangari Maathai",
+        "Malala Yousafzai"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "Hedy Lamarr, Ada Lovelace, Marie Curie y Katherine Johnson tienen algo en común. ¿Qué opción las relaciona correctamente?",
+      "opciones": [
+        "Todas realizaron aportaciones importantes a la ciencia, la tecnología o la innovación",
+        "Todas fueron astronautas",
+        "Todas recibieron el Premio Nobel de Física"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Cuál de estas mujeres fue la primera en viajar al espacio?",
+      "opciones": [
+        "Valentina Tereshkova",
+        "Mae Jemison",
+        "Sally Ride"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Cuál de estas mujeres fue la primera mujer afroamericana en viajar al espacio?",
+      "opciones": [
+        "Mae Jemison",
+        "Katherine Johnson",
+        "Dorothy Vaughan"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Cuál de estas mujeres fue una pionera de la programación informática?",
+      "opciones": [
+        "Ada Lovelace",
+        "Florence Nightingale",
+        "Amelia Earhart"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Cuál de estas mujeres fue una pionera de la aviación?",
+      "opciones": [
+        "Amelia Earhart",
+        "Rosalind Franklin",
+        "Simone de Beauvoir"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Cuál de estas mujeres fue una de las grandes figuras de la enfermería moderna?",
+      "opciones": [
+        "Florence Nightingale",
+        "Marie Curie",
+        "Ada Lovelace"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Cuál de estas mujeres fue una importante defensora de los derechos civiles de la población afroamericana en Estados Unidos?",
+      "opciones": [
+        "Rosa Parks",
+        "Jane Austen",
+        "Marie Curie"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Cuál de estas mujeres fue una importante defensora del sufragio femenino en España?",
+      "opciones": [
+        "Clara Campoamor",
+        "Frida Kahlo",
+        "Rachel Carson"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Cuál de estas mujeres recibió el Premio Nobel de la Paz por su defensa de la educación de las niñas?",
+      "opciones": [
+        "Malala Yousafzai",
+        "Rosalind Franklin",
+        "Amelia Earhart"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Cuál de estas mujeres fue una de las grandes escritoras británicas del siglo XIX y autora de Orgullo y prejuicio?",
+      "opciones": [
+        "Jane Austen",
+        "Virginia Woolf",
+        "Mary Shelley"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Cuál de estas mujeres escribió Frankenstein?",
+      "opciones": [
+        "Mary Shelley",
+        "Emily Brontë",
+        "Jane Austen"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Mujeres que hicieron historia",
+      "pregunta": "¿Cuál de estas mujeres fue una importante pintora mexicana conocida por sus autorretratos?",
+      "opciones": [
+        "Frida Kahlo",
+        "Virginia Woolf",
+        "Florence Nightingale"
+      ],
+      "correcta": "0"
+    }
+  ]
+}

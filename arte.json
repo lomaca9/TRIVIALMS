@@ -1,0 +1,607 @@
+{
+  "ARTE_MUSICA_PINTURA_ARQUITECTURA_LITERATURA": [
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién pintó La Gioconda (Mona Lisa)?",
+      "opciones": [
+        "Leonardo da Vinci",
+        "Miguel Ángel",
+        "Rafael"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién pintó La noche estrellada?",
+      "opciones": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pablo Picasso"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién pintó Las meninas?",
+      "opciones": [
+        "Francisco de Goya",
+        "Diego Velázquez",
+        "El Greco"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién pintó Guernica?",
+      "opciones": [
+        "Joan Miró",
+        "Salvador Dalí",
+        "Pablo Picasso"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién pintó El grito?",
+      "opciones": [
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Paul Cézanne"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién pintó La joven de la perla?",
+      "opciones": [
+        "Johannes Vermeer",
+        "Rembrandt",
+        "Jan van Eyck"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién pintó Las meninas?",
+      "opciones": [
+        "Diego Velázquez",
+        "Francisco de Goya",
+        "Bartolomé Esteban Murillo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién pintó El jardín de las delicias?",
+      "opciones": [
+        "El Bosco",
+        "Pieter Brueghel el Viejo",
+        "Caravaggio"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién pintó La persistencia de la memoria?",
+      "opciones": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién pintó El nacimiento de Venus?",
+      "opciones": [
+        "Sandro Botticelli",
+        "Rafael",
+        "Tiziano"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue pintada por Vincent van Gogh?",
+      "opciones": [
+        "La noche estrellada",
+        "La libertad guiando al pueblo",
+        "Impresión, sol naciente"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue pintada por Claude Monet?",
+      "opciones": [
+        "Impresión, sol naciente",
+        "El grito",
+        "Guernica"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue pintada por Pablo Picasso?",
+      "opciones": [
+        "Guernica",
+        "Las meninas",
+        "La joven de la perla"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue pintada por Francisco de Goya?",
+      "opciones": [
+        "Los fusilamientos del 3 de mayo",
+        "La última cena",
+        "El nacimiento de Venus"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue pintada por Leonardo da Vinci?",
+      "opciones": [
+        "La última cena",
+        "El grito",
+        "Las meninas"
+      ],
+      "correcta": "0"
+    },
+
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién compuso la Novena Sinfonía?",
+      "opciones": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién compuso Las cuatro estaciones?",
+      "opciones": [
+        "Antonio Vivaldi",
+        "Johann Strauss",
+        "Frédéric Chopin"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién compuso La flauta mágica?",
+      "opciones": [
+        "Wolfgang Amadeus Mozart",
+        "Richard Wagner",
+        "Giuseppe Verdi"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién compuso El lago de los cisnes?",
+      "opciones": [
+        "Piotr Ilich Chaikovski",
+        "Igor Stravinski",
+        "Serguéi Rajmáninov"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién compuso El Mesías?",
+      "opciones": [
+        "Georg Friedrich Händel",
+        "Johann Sebastian Bach",
+        "Joseph Haydn"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién compuso La Traviata?",
+      "opciones": [
+        "Giacomo Puccini",
+        "Giuseppe Verdi",
+        "Gioachino Rossini"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién compuso Carmen?",
+      "opciones": [
+        "Georges Bizet",
+        "Claude Debussy",
+        "Maurice Ravel"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién compuso El barbero de Sevilla?",
+      "opciones": [
+        "Gioachino Rossini",
+        "Giuseppe Verdi",
+        "Gaetano Donizetti"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién compuso Así habló Zaratustra?",
+      "opciones": [
+        "Richard Strauss",
+        "Richard Wagner",
+        "Gustav Mahler"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue compuesta por Johann Sebastian Bach?",
+      "opciones": [
+        "El arte de la fuga",
+        "La Traviata",
+        "El lago de los cisnes"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue compuesta por Ludwig van Beethoven?",
+      "opciones": [
+        "Novena Sinfonía",
+        "Las cuatro estaciones",
+        "Carmen"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue compuesta por Wolfgang Amadeus Mozart?",
+      "opciones": [
+        "La flauta mágica",
+        "El Mesías",
+        "La Traviata"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue compuesta por Piotr Ilich Chaikovski?",
+      "opciones": [
+        "El lago de los cisnes",
+        "Carmen",
+        "El barbero de Sevilla"
+      ],
+      "correcta": "0"
+    },
+
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién diseñó la Sagrada Familia de Barcelona?",
+      "opciones": [
+        "Antoni Gaudí",
+        "Le Corbusier",
+        "Frank Lloyd Wright"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién diseñó la Casa Batlló?",
+      "opciones": [
+        "Antoni Gaudí",
+        "Mies van der Rohe",
+        "Norman Foster"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién diseñó el Museo Guggenheim de Bilbao?",
+      "opciones": [
+        "Frank Gehry",
+        "Renzo Piano",
+        "Santiago Calatrava"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién diseñó la Villa Savoye?",
+      "opciones": [
+        "Le Corbusier",
+        "Antoni Gaudí",
+        "Frank Lloyd Wright"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién diseñó la Casa de la Cascada?",
+      "opciones": [
+        "Frank Lloyd Wright",
+        "Frank Gehry",
+        "Le Corbusier"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién diseñó el Centro Pompidou de París junto con Renzo Piano?",
+      "opciones": [
+        "Richard Rogers",
+        "Norman Foster",
+        "Zaha Hadid"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién diseñó la Ópera de Sídney?",
+      "opciones": [
+        "Jørn Utzon",
+        "Renzo Piano",
+        "Frank Gehry"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién diseñó el Burj Khalifa?",
+      "opciones": [
+        "Adrian Smith",
+        "Norman Foster",
+        "Rem Koolhaas"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras arquitectónicas fue diseñada por Antoni Gaudí?",
+      "opciones": [
+        "Casa Milà",
+        "Torre Eiffel",
+        "Museo Guggenheim de Bilbao"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras arquitectónicas fue diseñada por Frank Lloyd Wright?",
+      "opciones": [
+        "Casa de la Cascada",
+        "Ópera de Sídney",
+        "Villa Savoye"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras arquitectónicas fue diseñada por Frank Gehry?",
+      "opciones": [
+        "Museo Guggenheim de Bilbao",
+        "Sagrada Familia",
+        "Casa de la Cascada"
+      ],
+      "correcta": "0"
+    },
+
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió La Divina Comedia?",
+      "opciones": [
+        "Dante Alighieri",
+        "Francesco Petrarca",
+        "Giovanni Boccaccio"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió Don Quijote de la Mancha?",
+      "opciones": [
+        "Miguel de Cervantes",
+        "Lope de Vega",
+        "Francisco de Quevedo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió Hamlet?",
+      "opciones": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Oscar Wilde"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió Cien años de soledad?",
+      "opciones": [
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa",
+        "Jorge Luis Borges"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió La Odisea?",
+      "opciones": [
+        "Homero",
+        "Sófocles",
+        "Virgilio"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió La Ilíada?",
+      "opciones": [
+        "Homero",
+        "Aristóteles",
+        "Platón"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió La metamorfosis?",
+      "opciones": [
+        "Franz Kafka",
+        "Thomas Mann",
+        "Hermann Hesse"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió Guerra y paz?",
+      "opciones": [
+        "León Tolstói",
+        "Fiódor Dostoyevski",
+        "Antón Chéjov"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió Crimen y castigo?",
+      "opciones": [
+        "Fiódor Dostoyevski",
+        "León Tolstói",
+        "Iván Turguénev"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió Orgullo y prejuicio?",
+      "opciones": [
+        "Jane Austen",
+        "Charlotte Brontë",
+        "Emily Brontë"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió Frankenstein?",
+      "opciones": [
+        "Mary Shelley",
+        "Jane Austen",
+        "Emily Brontë"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió Los miserables?",
+      "opciones": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Gustave Flaubert"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió El principito?",
+      "opciones": [
+        "Antoine de Saint-Exupéry",
+        "Julio Verne",
+        "Albert Camus"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió 1984?",
+      "opciones": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Quién escribió Un mundo feliz?",
+      "opciones": [
+        "Aldous Huxley",
+        "George Orwell",
+        "H. G. Wells"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue escrita por William Shakespeare?",
+      "opciones": [
+        "Romeo y Julieta",
+        "Fausto",
+        "Los miserables"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue escrita por Miguel de Cervantes?",
+      "opciones": [
+        "Don Quijote de la Mancha",
+        "La Celestina",
+        "Fuenteovejuna"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue escrita por Dante Alighieri?",
+      "opciones": [
+        "La Divina Comedia",
+        "El Decamerón",
+        "El príncipe"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue escrita por Gabriel García Márquez?",
+      "opciones": [
+        "Cien años de soledad",
+        "La ciudad y los perros",
+        "Rayuela"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue escrita por León Tolstói?",
+      "opciones": [
+        "Guerra y paz",
+        "Crimen y castigo",
+        "Los hermanos Karamázov"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Obras de Arte y Cultura",
+      "pregunta": "¿Cuál de estas obras fue escrita por Fiódor Dostoyevski?",
+      "opciones": [
+        "Crimen y castigo",
+        "Anna Karénina",
+        "Guerra y paz"
+      ],
+      "correcta": "0"
+    }
+  ]
+}

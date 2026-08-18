@@ -1,0 +1,584 @@
+{
+  "INVENTOS_TECNOLOGIA_CIENCIA": [
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién inventó la imprenta de tipos móviles en Europa?",
+      "opciones": [
+        "Johannes Gutenberg",
+        "Leonardo da Vinci",
+        "Galileo Galilei"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién es considerado uno de los inventores del teléfono?",
+      "opciones": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién desarrolló una de las primeras bombillas eléctricas prácticas?",
+      "opciones": [
+        "Thomas Edison",
+        "James Watt",
+        "Alexander Fleming"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién desarrolló el sistema de corriente alterna que contribuyó decisivamente a la expansión de la electricidad?",
+      "opciones": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Michael Faraday"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién inventó la máquina de vapor de forma decisiva para su aplicación industrial?",
+      "opciones": [
+        "James Watt",
+        "George Stephenson",
+        "Henry Ford"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién desarrolló el primer automóvil de gasolina producido en serie de gran impacto comercial?",
+      "opciones": [
+        "Henry Ford",
+        "Karl Benz",
+        "Rudolf Diesel"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién construyó uno de los primeros automóviles de gasolina funcionales?",
+      "opciones": [
+        "Karl Benz",
+        "Henry Ford",
+        "James Watt"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién desarrolló el motor diésel?",
+      "opciones": [
+        "Rudolf Diesel",
+        "Karl Benz",
+        "Gottlieb Daimler"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quiénes realizaron el primer vuelo controlado y propulsado de un avión?",
+      "opciones": [
+        "Los hermanos Wright",
+        "Los hermanos Montgolfier",
+        "Charles y Ray Eames"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quiénes fueron pioneros en el desarrollo del globo aerostático tripulado?",
+      "opciones": [
+        "Los hermanos Montgolfier",
+        "Los hermanos Wright",
+        "Los hermanos Lumière"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quiénes fueron pioneros del cinematógrafo?",
+      "opciones": [
+        "Los hermanos Lumière",
+        "Los hermanos Wright",
+        "Los hermanos Montgolfier"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién desarrolló el fonógrafo?",
+      "opciones": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Guglielmo Marconi"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién realizó importantes demostraciones y desarrollos tempranos de la radio?",
+      "opciones": [
+        "Guglielmo Marconi",
+        "Nikola Tesla",
+        "James Clerk Maxwell"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién desarrolló la World Wide Web?",
+      "opciones": [
+        "Tim Berners-Lee",
+        "Steve Jobs",
+        "Bill Gates"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quiénes fundaron Microsoft?",
+      "opciones": [
+        "Bill Gates y Paul Allen",
+        "Steve Jobs y Steve Wozniak",
+        "Larry Page y Sergey Brin"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quiénes fundaron Apple junto con Ronald Wayne?",
+      "opciones": [
+        "Steve Jobs y Steve Wozniak",
+        "Bill Gates y Paul Allen",
+        "Larry Page y Sergey Brin"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quiénes fundaron Google?",
+      "opciones": [
+        "Larry Page y Sergey Brin",
+        "Bill Gates y Paul Allen",
+        "Steve Jobs y Steve Wozniak"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién inventó la pila eléctrica?",
+      "opciones": [
+        "Alessandro Volta",
+        "Michael Faraday",
+        "Benjamin Franklin"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién descubrió la inducción electromagnética?",
+      "opciones": [
+        "Michael Faraday",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién formuló las leyes del movimiento y la ley de la gravitación universal?",
+      "opciones": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Johannes Kepler"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién propuso la teoría de la relatividad?",
+      "opciones": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Niels Bohr"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién descubrió la penicilina?",
+      "opciones": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Robert Koch"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién desarrolló la primera vacuna contra la viruela?",
+      "opciones": [
+        "Edward Jenner",
+        "Alexander Fleming",
+        "Louis Pasteur"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién desarrolló una de las primeras vacunas contra la rabia?",
+      "opciones": [
+        "Louis Pasteur",
+        "Edward Jenner",
+        "Robert Koch"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién descubrió la estructura de doble hélice del ADN junto con Francis Crick?",
+      "opciones": [
+        "James Watson",
+        "Gregor Mendel",
+        "Charles Darwin"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién propuso la teoría de la evolución mediante selección natural junto con Alfred Russel Wallace?",
+      "opciones": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién descubrió las leyes fundamentales de la herencia genética mediante sus experimentos con guisantes?",
+      "opciones": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "James Watson"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién descubrió los rayos X?",
+      "opciones": [
+        "Wilhelm Conrad Röntgen",
+        "Marie Curie",
+        "Ernest Rutherford"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién realizó investigaciones fundamentales sobre la radiactividad y descubrió los elementos polonio y radio junto con Pierre Curie?",
+      "opciones": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Ada Lovelace"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién descubrió el electrón?",
+      "opciones": [
+        "J. J. Thomson",
+        "Ernest Rutherford",
+        "Niels Bohr"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién descubrió el núcleo atómico?",
+      "opciones": [
+        "Ernest Rutherford",
+        "J. J. Thomson",
+        "Niels Bohr"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién propuso un modelo atómico en el que los electrones ocupan niveles de energía cuantizados?",
+      "opciones": [
+        "Niels Bohr",
+        "Ernest Rutherford",
+        "Albert Einstein"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién desarrolló las ecuaciones fundamentales del electromagnetismo conocidas como ecuaciones de Maxwell?",
+      "opciones": [
+        "James Clerk Maxwell",
+        "Michael Faraday",
+        "Nikola Tesla"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién descubrió la circulación de la sangre de forma completa y sistemática?",
+      "opciones": [
+        "William Harvey",
+        "Andreas Vesalio",
+        "Hipócrates"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién desarrolló una teoría heliocéntrica que situaba al Sol en el centro del sistema planetario?",
+      "opciones": [
+        "Nicolás Copérnico",
+        "Claudio Ptolomeo",
+        "Johannes Kepler"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién formuló las leyes del movimiento planetario?",
+      "opciones": [
+        "Johannes Kepler",
+        "Nicolás Copérnico",
+        "Galileo Galilei"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién utilizó el telescopio para realizar observaciones astronómicas revolucionarias a comienzos del siglo XVII?",
+      "opciones": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién descubrió Neptuno mediante predicciones matemáticas y observaciones posteriores?",
+      "opciones": [
+        "Johann Gottfried Galle",
+        "Edwin Hubble",
+        "Galileo Galilei"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Quién demostró mediante observaciones que las galaxias se alejan unas de otras, contribuyendo al descubrimiento de la expansión del universo?",
+      "opciones": [
+        "Edwin Hubble",
+        "Carl Sagan",
+        "Stephen Hawking"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué invento está asociado principalmente con Johannes Gutenberg?",
+      "opciones": [
+        "La imprenta de tipos móviles",
+        "El teléfono",
+        "El telégrafo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué invento está asociado principalmente con Alexander Graham Bell?",
+      "opciones": [
+        "El teléfono",
+        "La radio",
+        "La bombilla eléctrica"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué invento está asociado principalmente con Thomas Edison?",
+      "opciones": [
+        "El fonógrafo",
+        "El avión",
+        "El motor diésel"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué tecnología desarrolló Tim Berners-Lee?",
+      "opciones": [
+        "La World Wide Web",
+        "El sistema GPS",
+        "El microprocesador"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué invento está asociado con Alessandro Volta?",
+      "opciones": [
+        "La pila eléctrica",
+        "El motor eléctrico",
+        "El telégrafo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué descubrimiento está asociado con Alexander Fleming?",
+      "opciones": [
+        "La penicilina",
+        "Los rayos X",
+        "La radiactividad"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué descubrimiento está asociado con Wilhelm Conrad Röntgen?",
+      "opciones": [
+        "Los rayos X",
+        "El electrón",
+        "El núcleo atómico"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué descubrimiento está asociado con Marie Curie?",
+      "opciones": [
+        "La radiactividad y los elementos polonio y radio",
+        "La estructura del ADN",
+        "La penicilina"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué teoría está asociada con Albert Einstein?",
+      "opciones": [
+        "La teoría de la relatividad",
+        "La teoría de la evolución",
+        "La teoría heliocéntrica"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué teoría está asociada con Charles Darwin?",
+      "opciones": [
+        "La evolución mediante selección natural",
+        "La relatividad",
+        "La tectónica de placas"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué descubrimiento está asociado con James Watson y Francis Crick?",
+      "opciones": [
+        "La estructura de doble hélice del ADN",
+        "La estructura del átomo",
+        "La existencia del electrón"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué invento está asociado con los hermanos Wright?",
+      "opciones": [
+        "El avión propulsado y controlado",
+        "El automóvil",
+        "El helicóptero"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué tecnología está asociada principalmente con Guglielmo Marconi?",
+      "opciones": [
+        "La radio",
+        "La televisión",
+        "El teléfono móvil"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué invento está asociado con Karl Benz?",
+      "opciones": [
+        "El automóvil de gasolina",
+        "La locomotora de vapor",
+        "El avión"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué invento está asociado con James Watt?",
+      "opciones": [
+        "La máquina de vapor mejorada",
+        "El motor diésel",
+        "El motor de combustión interna"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué descubrimiento está asociado con Isaac Newton?",
+      "opciones": [
+        "La gravitación universal",
+        "La radiactividad",
+        "La estructura del ADN"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué descubrimiento está asociado con Gregor Mendel?",
+      "opciones": [
+        "Las leyes de la herencia genética",
+        "La penicilina",
+        "Los rayos X"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué descubrimiento está asociado con Ernest Rutherford?",
+      "opciones": [
+        "El núcleo atómico",
+        "El electrón",
+        "Los rayos X"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Inventos, Tecnología y Descubrimientos Científicos",
+      "pregunta": "¿Qué descubrimiento está asociado con J. J. Thomson?",
+      "opciones": [
+        "El electrón",
+        "El núcleo atómico",
+        "La radiactividad"
+      ],
+      "correcta": "0"
+    }
+  ]
+}

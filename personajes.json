@@ -1,0 +1,534 @@
+{
+  "PERSONAJES_FAMOSOS": [
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Wolfgang Amadeus Mozart, gran compositor austriaco y niño prodigio de la música clásica. ¿En qué periodo vivió?",
+      "opciones": [
+        "1756-1791",
+        "1650-1690",
+        "1850-1890"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Marie Curie, científica pionera en el estudio de la radiactividad y primera persona en ganar dos premios Nobel. ¿En qué periodo vivió?",
+      "opciones": [
+        "1867-1934",
+        "1767-1834",
+        "1907-1974"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Leonardo da Vinci, artista del Renacimiento y autor de La Gioconda y La última cena, además de inventor y científico. ¿En qué periodo vivió?",
+      "opciones": [
+        "1452-1519",
+        "1352-1419",
+        "1552-1619"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "William Shakespeare, uno de los escritores más importantes de la literatura universal y autor de Hamlet y Romeo y Julieta. ¿En qué periodo vivió?",
+      "opciones": [
+        "1564-1616",
+        "1464-1516",
+        "1664-1716"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Isaac Newton, físico y matemático que formuló las leyes del movimiento y la gravitación universal. ¿En qué periodo vivió?",
+      "opciones": [
+        "1643-1727",
+        "1543-1627",
+        "1743-1827"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Albert Einstein, físico que revolucionó la ciencia con sus teorías de la relatividad y su explicación del efecto fotoeléctrico. ¿En qué periodo vivió?",
+      "opciones": [
+        "1879-1955",
+        "1779-1855",
+        "1909-1985"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Galileo Galilei, astrónomo y físico que realizó observaciones revolucionarias con el telescopio y defendió el modelo heliocéntrico. ¿En qué periodo vivió?",
+      "opciones": [
+        "1564-1642",
+        "1464-1542",
+        "1664-1742"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Nicolás Copérnico, astrónomo que propuso un modelo en el que la Tierra y los demás planetas giran alrededor del Sol. ¿En qué periodo vivió?",
+      "opciones": [
+        "1473-1543",
+        "1373-1443",
+        "1573-1643"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Johannes Kepler, astrónomo que descubrió las leyes que describen el movimiento de los planetas alrededor del Sol. ¿En qué periodo vivió?",
+      "opciones": [
+        "1571-1630",
+        "1471-1530",
+        "1671-1730"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Charles Darwin, naturalista británico que desarrolló la teoría de la evolución mediante selección natural. ¿En qué periodo vivió?",
+      "opciones": [
+        "1809-1882",
+        "1709-1782",
+        "1909-1982"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Gregor Mendel, monje y científico considerado uno de los padres de la genética por sus experimentos con plantas de guisantes. ¿En qué periodo vivió?",
+      "opciones": [
+        "1822-1884",
+        "1722-1784",
+        "1922-1984"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Alexander Fleming, médico y científico escocés que descubrió la penicilina, uno de los grandes avances de la medicina moderna. ¿En qué periodo vivió?",
+      "opciones": [
+        "1881-1955",
+        "1781-1855",
+        "1901-1975"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Louis Pasteur, científico francés que realizó importantes descubrimientos sobre los microorganismos y desarrolló vacunas contra varias enfermedades. ¿En qué periodo vivió?",
+      "opciones": [
+        "1822-1895",
+        "1722-1795",
+        "1922-1995"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Nikola Tesla, inventor e ingeniero que realizó importantes contribuciones al desarrollo de la corriente alterna y los sistemas eléctricos. ¿En qué periodo vivió?",
+      "opciones": [
+        "1856-1943",
+        "1756-1843",
+        "1906-1993"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Thomas Edison, inventor estadounidense relacionado con numerosos desarrollos eléctricos y con la popularización de la iluminación eléctrica. ¿En qué periodo vivió?",
+      "opciones": [
+        "1847-1931",
+        "1747-1831",
+        "1947-2031"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Ada Lovelace, matemática británica considerada pionera de la programación por sus trabajos sobre la máquina analítica de Charles Babbage. ¿En qué periodo vivió?",
+      "opciones": [
+        "1815-1852",
+        "1715-1752",
+        "1915-1952"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Johannes Gutenberg, inventor europeo asociado con la imprenta de tipos móviles que revolucionó la difusión de los libros. ¿En qué periodo vivió?",
+      "opciones": [
+        "c. 1400-1468",
+        "c. 1300-1368",
+        "c. 1500-1568"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Marco Polo, mercader y viajero veneciano conocido por sus relatos sobre sus viajes por Asia y la corte de Kublai Kan. ¿En qué periodo vivió?",
+      "opciones": [
+        "c. 1254-1324",
+        "c. 1154-1224",
+        "c. 1354-1424"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Cristóbal Colón, navegante que realizó el viaje de 1492 que conectó de forma permanente Europa y América en la historia moderna. ¿En qué periodo vivió?",
+      "opciones": [
+        "1451-1506",
+        "1351-1406",
+        "1551-1606"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Fernando de Magallanes, navegante portugués cuya expedición inició la primera vuelta al mundo, completada por la tripulación tras su muerte. ¿En qué periodo vivió?",
+      "opciones": [
+        "c. 1480-1521",
+        "c. 1380-1421",
+        "c. 1580-1621"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Neil Armstrong, astronauta estadounidense y primera persona en caminar sobre la Luna durante la misión Apolo 11. ¿En qué periodo vivió?",
+      "opciones": [
+        "1930-2012",
+        "1830-1912",
+        "1950-2032"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Yuri Gagarin, cosmonauta soviético y primera persona en viajar al espacio y orbitar la Tierra. ¿En qué periodo vivió?",
+      "opciones": [
+        "1934-1968",
+        "1834-1868",
+        "1954-1988"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Stephen Hawking, físico británico conocido por sus investigaciones sobre los agujeros negros y la cosmología. ¿En qué periodo vivió?",
+      "opciones": [
+        "1942-2018",
+        "1842-1918",
+        "1962-2038"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Aristóteles, filósofo griego que realizó aportaciones fundamentales a la filosofía, la lógica, la ciencia y la política. ¿En qué periodo vivió?",
+      "opciones": [
+        "384-322 a. C.",
+        "484-422 a. C.",
+        "284-222 a. C."
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Sócrates, filósofo ateniense considerado una figura fundamental de la filosofía occidental. ¿En qué periodo vivió?",
+      "opciones": [
+        "c. 470-399 a. C.",
+        "c. 370-299 a. C.",
+        "c. 570-499 a. C."
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Platón, filósofo griego y discípulo de Sócrates, fundador de la Academia y autor de importantes diálogos filosóficos. ¿En qué periodo vivió?",
+      "opciones": [
+        "c. 428-348 a. C.",
+        "c. 528-448 a. C.",
+        "c. 328-248 a. C."
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Julio César, general y político romano cuya trayectoria desempeñó un papel decisivo en la transformación de la República romana. ¿En qué periodo vivió?",
+      "opciones": [
+        "100-44 a. C.",
+        "200-144 a. C.",
+        "50 a. C.-20 d. C."
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Cleopatra VII, última gran reina del Egipto ptolemaico, conocida por sus relaciones políticas con Julio César y Marco Antonio. ¿En qué periodo vivió?",
+      "opciones": [
+        "69-30 a. C.",
+        "169-130 a. C.",
+        "29 a. C.-20 d. C."
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Carlomagno, rey de los francos y emperador que gobernó gran parte de Europa occidental durante la Alta Edad Media. ¿En qué periodo vivió?",
+      "opciones": [
+        "742-814",
+        "642-714",
+        "842-914"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Juana de Arco, heroína francesa que participó en la guerra de los Cien Años y fue posteriormente canonizada. ¿En qué periodo vivió?",
+      "opciones": [
+        "c. 1412-1431",
+        "c. 1312-1331",
+        "c. 1512-1531"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Miguel de Cervantes, escritor español considerado una de las grandes figuras de la literatura universal y autor de Don Quijote. ¿En qué periodo vivió?",
+      "opciones": [
+        "1547-1616",
+        "1447-1516",
+        "1647-1716"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Dante Alighieri, poeta italiano y autor de La Divina Comedia, una de las grandes obras de la literatura occidental. ¿En qué periodo vivió?",
+      "opciones": [
+        "c. 1265-1321",
+        "c. 1165-1221",
+        "c. 1365-1421"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Victor Hugo, escritor francés autor de Los miserables y Nuestra Señora de París y una de las grandes figuras del Romanticismo. ¿En qué periodo vivió?",
+      "opciones": [
+        "1802-1885",
+        "1702-1785",
+        "1902-1985"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Pablo Picasso, artista español y uno de los creadores del cubismo, autor de obras como Guernica. ¿En qué periodo vivió?",
+      "opciones": [
+        "1881-1973",
+        "1781-1873",
+        "1901-1993"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Vincent van Gogh, pintor neerlandés posimpresionista conocido por obras como La noche estrellada y Los girasoles. ¿En qué periodo vivió?",
+      "opciones": [
+        "1853-1890",
+        "1753-1790",
+        "1903-1940"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Frida Kahlo, pintora mexicana conocida por sus autorretratos y por una obra profundamente vinculada a su identidad y experiencia personal. ¿En qué periodo vivió?",
+      "opciones": [
+        "1907-1954",
+        "1807-1854",
+        "1927-1974"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Salvador Dalí, pintor español surrealista famoso por sus imágenes oníricas y obras como La persistencia de la memoria. ¿En qué periodo vivió?",
+      "opciones": [
+        "1904-1989",
+        "1804-1889",
+        "1924-2009"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Antoni Gaudí, arquitecto catalán máximo representante del modernismo y creador de la Sagrada Familia de Barcelona. ¿En qué periodo vivió?",
+      "opciones": [
+        "1852-1926",
+        "1752-1826",
+        "1902-1976"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Ludwig van Beethoven, compositor alemán considerado una figura fundamental de la transición entre el Clasicismo y el Romanticismo musical. ¿En qué periodo vivió?",
+      "opciones": [
+        "1770-1827",
+        "1670-1727",
+        "1870-1927"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Johann Sebastian Bach, compositor alemán del Barroco y uno de los músicos más influyentes de la historia. ¿En qué periodo vivió?",
+      "opciones": [
+        "1685-1750",
+        "1585-1650",
+        "1785-1850"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Antonio Vivaldi, compositor italiano del Barroco conocido especialmente por Las cuatro estaciones. ¿En qué periodo vivió?",
+      "opciones": [
+        "1678-1741",
+        "1578-1641",
+        "1778-1841"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Napoleón Bonaparte, militar y emperador francés que dominó gran parte de Europa a comienzos del siglo XIX. ¿En qué periodo vivió?",
+      "opciones": [
+        "1769-1821",
+        "1669-1721",
+        "1869-1921"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "George Washington, primer presidente de Estados Unidos y uno de los líderes de la independencia estadounidense. ¿En qué periodo vivió?",
+      "opciones": [
+        "1732-1799",
+        "1632-1699",
+        "1832-1899"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Abraham Lincoln, presidente de Estados Unidos durante la Guerra Civil y figura clave en la abolición de la esclavitud en el país. ¿En qué periodo vivió?",
+      "opciones": [
+        "1809-1865",
+        "1709-1765",
+        "1909-1965"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Mahatma Gandhi, líder del movimiento independentista de la India y símbolo internacional de la resistencia no violenta. ¿En qué periodo vivió?",
+      "opciones": [
+        "1869-1948",
+        "1769-1848",
+        "1909-1988"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Martin Luther King Jr., líder estadounidense de los derechos civiles y defensor de la igualdad y la lucha no violenta contra la segregación racial. ¿En qué periodo vivió?",
+      "opciones": [
+        "1929-1968",
+        "1829-1868",
+        "1949-1988"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Nelson Mandela, líder sudafricano contra el apartheid y primer presidente negro de Sudáfrica elegido en unas elecciones democráticas. ¿En qué periodo vivió?",
+      "opciones": [
+        "1918-2013",
+        "1818-1913",
+        "1938-2023"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Madre Teresa de Calcuta, religiosa católica conocida por su labor humanitaria y por su trabajo con personas pobres y enfermas. ¿En qué periodo vivió?",
+      "opciones": [
+        "1910-1997",
+        "1810-1897",
+        "1930-2017"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Leonardo da Vinci, uno de los grandes genios del Renacimiento, famoso por su pintura, sus estudios científicos y sus diseños e inventos. ¿En qué periodo histórico vivió?",
+      "opciones": [
+        "Renacimiento",
+        "Edad Media",
+        "Revolución Industrial"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Mozart, compositor prodigio que comenzó a componer desde niño y se convirtió en una de las figuras fundamentales del Clasicismo musical. ¿En qué periodo histórico desarrolló principalmente su obra?",
+      "opciones": [
+        "Clasicismo",
+        "Barroco",
+        "Impresionismo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Johann Sebastian Bach, uno de los grandes compositores de la historia y figura fundamental de la música barroca. ¿En qué periodo histórico desarrolló principalmente su obra?",
+      "opciones": [
+        "Barroco",
+        "Clasicismo",
+        "Romanticismo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Pablo Picasso, uno de los artistas más influyentes del siglo XX y creador, junto con Georges Braque, del cubismo. ¿En qué periodo histórico desarrolló principalmente su obra?",
+      "opciones": [
+        "Siglo XX",
+        "Siglo XVIII",
+        "Siglo XIX"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Personajes Famosos",
+      "pregunta": "Isaac Newton, una de las figuras científicas fundamentales de la Revolución Científica y autor de los Principia Mathematica. ¿En qué periodo histórico desarrolló principalmente su obra?",
+      "opciones": [
+        "Siglo XVII y comienzos del XVIII",
+        "Siglo XV y comienzos del XVI",
+        "Siglo XIX y comienzos del XX"
+      ],
+      "correcta": "0"
+    }
+  ]
+}
