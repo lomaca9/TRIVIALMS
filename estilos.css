@@ -236,13 +236,13 @@ h2 {
 
 /* Fondos distintos y bien diferenciados en tonos pastel para cada uno de los 8 botones */
 .btn-modulo:nth-child(1) { background-color: #AEC6CF; } /* Azul Pastel */
-.btn-modulo:nth-child(2) { background-color: #FFD1A9; } /* Naranja/Melocotón Pastel */
-.btn-modulo:nth-child(3) { background-color: #E2BFFF; } /* Violeta/Lila Pastel */
-.btn-modulo:nth-child(4) { background-color: #B4F8C8; } /* Menta/Verde claro Pastel */
-.btn-modulo:nth-child(5) { background-color: #FFB3BA; } /* Rosa Pastel */
-.btn-modulo:nth-child(6) { background-color: #FBE7A1; } /* Amarillo Vainilla Pastel */
-.btn-modulo:nth-child(7) { background-color: #A0E7E5; } /* Turquesa/Agua Pastel */
-.btn-modulo:nth-child(8) { background-color: #E6C2B1; } /* Marrón Claro/Arena Pastel */
+.btn-modulo:nth-child(2) { background-color: #FFB347; } /* Naranja/Melocotón Pastel */
+.btn-modulo:nth-child(3) { background-color: #B19CD9; } /* Violeta/Lila Pastel */
+.btn-modulo:nth-child(4) { background-color: #B0EFC2; } /* Menta/Verde claro Pastel */
+.btn-modulo:nth-child(5) { background-color: #FFD1DC; } /* Rosa Pastel */
+.btn-modulo:nth-child(6) { background-color: #FDFD96; } /* Amarillo Vainilla Pastel */
+.btn-modulo:nth-child(7) { background-color: #abc4ff; } /* Turquesa/Agua Pastel */
+.btn-modulo:nth-child(8) { background-color: #E0E0E0; } /* Marrón Claro/Arena Pastel */
 
 
 
