@@ -579,6 +579,300 @@
         "La radiactividad"
       ],
       "correcta": "0"
-    }
-  ]
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Cuántas veces podría viajar un rayo de luz alrededor del ecuador de la Tierra en un solo segundo?",
+      "opciones": [
+        "Aproximadamente 2,5 veces",
+        "Aproximadamente 7,5 veces",
+        "Aproximadamente 15 veces"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Cuál es el músculo más fuerte del cuerpo humano en relación a su tamaño?",
+      "opciones": [
+        "El cuádriceps",
+        "El masetero (mandíbula)",
+        "El corazón"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "Si el núcleo de un átomo fuera del tamaño de una canica en el centro de un estadio de fútbol, ¿donde estarían los electrones?",
+      "opciones": [
+        "En el césped, a pocos centímetros de la canica",
+        "En las gradas más altas o fuera del estadio",
+        "A un par de metros flotando en el aire"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Por qué el sonido viaja aproximadamente cuatro veces más rápido en el agua que en el aire?",
+      "opciones": [
+        "Porque las moléculas del agua están mucho más juntas",
+        "Porque el agua es un elemento más ligero",
+        "Porque la gravedad afecta menos al sonido líquido"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Qué gas se libera y genera la efervescencia al mezclar vinagre con bicarbonato de sodio?",
+      "opciones": [
+        "Oxígeno",
+        "Hidrógeno",
+        "Dióxido de carbono"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "Aproximadamente, ¿cuántos planetas Tierra podrían caber dentro del volumen total del Sol?",
+      "opciones": [
+        "Unas 1.300.000 veces",
+        "Unas 50.000 veces",
+        "Unas 10.000.000 veces"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "Cuando un clavo de hierro se oxida por completo al aire libre, ¿qué ocurre con su peso teórico total?",
+      "opciones": [
+        "Pesa menos porque el metal se corroe",
+        "Pesa exactamente lo mismo",
+        "Pesa más porque se le incorporan átomos de oxígeno"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Cuál es el estado de la materia más abundante en el universo observable, presente en las estrellas?",
+      "opciones": [
+        "Gaseoso",
+        "Plasma",
+        "Líquido"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "Si estiráramos por completo el ADN de una sola célula humana, ¿qué longitud aproximada alcanzaría?",
+      "opciones": [
+        "Unos 2 metros",
+        "Unos 2 centímetros",
+        "Unos 20 metros"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "Si un astronauta viaja al espacio sin traje espacial, ¿cuál de estos efectos físicos ocurriría primero?",
+      "opciones": [
+        "La sangre hervirá instantáneamente por el calor solar",
+        "El cuerpo explotará por la diferencia de presión",
+        "El oxígeno de sus pulmones se expandirá y perderá el conocimiento por hipoxia"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Qué fenómeno astronómico ocurre cuando la Luna se interpone entre la Tierra y el Sol?",
+      "opciones": [
+        "Eclipse solar",
+        "Eclipse lunar",
+        "Tránsito de Venus"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Cuál es la velocidad aproximada del sonido en el aire a temperatura ambiente?",
+      "opciones": [
+        "Unos 300.000 km/s",
+        "Unos 343 metros por segundo",
+        "Unos 1.200 metros por segundo"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "Si un rayo cae a 1 kilómetro de distancia de ti, ¿cuánto tiempo tardarás aproximadamente en escuchar el trueno?",
+      "opciones": [
+        "Unos 3 segundos",
+        "Un segundo exacto",
+        "Unos 10 segundos"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Cuánto tiempo tarda la luz del Sol en llegar a la Tierra cubriendo la distancia espacial?",
+      "opciones": [
+        "Unos 8 minutos y 20 segundos",
+        "Apenas 3 segundos",
+        "Exactamente 2 horas"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "Si juntáramos todos los vasos sanguíneos de un cuerpo humano adulto en línea recta, ¿qué distancia cubrirían?",
+      "opciones": [
+        "La distancia de Madrid a Barcelona",
+        "Casi dos veces y media la vuelta a la Tierra",
+        "La distancia exacta de la Tierra a la Luna"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Qué planeta del sistema solar tiene un día que dura más que todo su año completo?",
+      "opciones": [
+        "Venus",
+        "Marte",
+        "Júpiter"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "En el espacio exterior, donde no hay atmósfera, ¿cómo se transmite el calor del Sol hasta nosotros?",
+      "opciones": [
+        "Por convección de gases espaciales",
+        "Por conducción a través del éter",
+        "Por radiación mediante ondas electromagnéticas"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Qué le sucede a la altura de los astronautas tras pasar varios meses en la Estación Espacial Internacional?",
+      "opciones": [
+        "Se encogen debido a la presión del vacío",
+        "Pueden crecer hasta un 3% más porque la columna se expande sin gravedad",
+        "Su estatura se mantiene exactamente igual"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "Al realizar el experimento casero de meter un huevo en vinagre durante dos días, ¿por qué el huevo se vuelve elástico?",
+      "opciones": [
+        "El ácido acético disuelve el calcio de la cáscara dejando la membrana interna",
+        "El vinagre cocina el huevo en frío y endurece la yema",
+        "El huevo absorbe agua y se congela químicamente"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Cuál es el único órgano del cuerpo humano capaz de regenerarse por completo a partir de solo un 25% de su tamaño?",
+      "opciones": [
+        "El estómago",
+        "El hígado",
+        "El pulmón izquierdo"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Qué propiedad del agua permite que algunos insectos caminen sobre ella sin hundirse?",
+      "opciones": [
+        "La densidad térmica",
+        "La tensión superficial",
+        "La capilaridad inversa"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "Si un coche pudiera viajar hacia arriba verticalmente a 100 km/h, ¿cuánto tardaría en llegar al espacio exterior?",
+      "opciones": [
+        "Aproximadamente 1 hora",
+        "Aproximadamente un mes",
+        "Aproximadamente un año entero"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿A qué velocidad aproximada gira la Tierra sobre su propio eje en la zona del ecuador?",
+      "opciones": [
+        "A unos 100 km/h",
+        "A unos 1.670 km/h",
+        "A unos 30.000 km/h"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Qué ocurre si echas caramelos Mentos dentro de una botella de Coca-Cola Light en un experimento clásico?",
+      "opciones": [
+        "Una reacción química que crea un ácido inflamable",
+        "Una liberación física ultra rápida del gas disuelto debido a la porosidad del caramelo",
+        "La Coca-Cola se convierte en un sólido cristalino"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿Cuál es la velocidad extrema que debe alcanzar un cohete para escapar de la gravedad de la Tierra?",
+      "opciones": [
+        "Unos 11,2 kilómetros por segundo",
+        "Unos 343 metros por segundo",
+        "Unos 500 kilómetros por hora"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "¿A qué temperatura teórica cesa por completo todo movimiento de los átomos y moléculas (Cero Absoluto)?",
+      "opciones": [
+        "A 0 °C",
+        "A -100 °C",
+        "A -273,15 °C"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+      "pregunta": "Aproximadamente, ¿cuántos impulsos eléctricos genera el cerebro humano en un solo día en comparación con los teléfonos del mundo?",
+      "opciones": [
+        "Menos que un teléfono inteligente moderno",
+        "Más impulsos eléctricos que todos los teléfonos del mundo juntos",
+	"Exactamente la misma cantidad que una central telefónica regional"],
+	"correcta": "1"
+	},
+	{
+	"tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+	"pregunta": "Si un objeto cae en un agujero negro, ¿cómo se conoce físicamente al efecto donde la gravedad lo estira de forma vertical?",
+	"opciones": [
+	"Efecto espagueti (Espaguetización)",
+	"Compresión molecular simétrica",
+	"Fusión gravitatoria cuántica"],
+	"correcta": "0"
+	},
+	{"tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+	"pregunta": "¿Por qué parpadean o titilan las estrellas cuando las miramos desde la superficie de la Tierra?",
+	"opciones": [
+	"Porque apagan y encienden su luz constantemente",
+	"Debido a las turbulencias y capas de la atmósfera terrestre que desvían su luz",
+	"Por el polvo cósmico que pasa rápido delante de ellas"],
+	"correcta": "1"
+	},
+	{"tema": "Tema 2: Curiosidades de la Ciencia y el Universo",
+	"pregunta": "¿Qué gas vital produce una planta durante el día mediante el experimento casero de fotosíntesis bajo el agua?",
+	"opciones": [
+	"Dióxido de carbono",
+	"Nitrógeno",
+	"Oxígeno"],
+	"correcta": "2"
+	}
+]
 }

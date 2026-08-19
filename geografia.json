@@ -1,15 +1,504 @@
 {
   "GEOGRAFIA": [
     {
-      "tema": "Tema: EN CONSTRUCCIÓN VUELVA AL MENÚ",
-      "pregunta": "¿Cuál es la opción que contiene todas las provincias de Andalucía?",
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿En qué continente se encuentra el río Amazonas, conocido por ser el más caudaloso del planeta?",
       "opciones": [
-        "Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, Sevilla",
-        "Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga",
-        "Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, Sevilla, Murcia"
+        "África",
+        "América del Sur",
+        "Asia"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "Por el noreste de África fluye un río histórico fundamental para el antiguo Egipto. ¿Cuál es?",
+      "opciones": [
+        "El Nilo",
+        "El Amazonas",
+        "El Ganges"
       ],
       "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es la montaña más alta del mundo, situada en la cordillera del Himalaya?",
+      "opciones": [
+        "K2",
+        "Monte Everest",
+        "Mont Blanc"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "En la cordillera del Karakórum se alza la segunda cumbre más alta de la Tierra. ¿Cómo se llama?",
+      "opciones": [
+        "K2",
+        "Anapurna",
+        "Kilimanjaro"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué lago, ubicado en la frontera entre Perú y Bolivia, ostenta el título de ser el lago navegable más alto del mundo?",
+      "opciones": [
+        "Lago Victoria",
+        "Lago Baikal",
+        "Lago Titicaca"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "En la región de Siberia (Rusia) se localiza el lago más profundo y antiguo del planeta. ¿De qué lago se trata?",
+      "opciones": [
+        "Lago Superior",
+        "Lago Baikal",
+        "Lago Hurón"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿En qué país de Sudamérica se encuentra el desierto de Atacama, el más árido del mundo?",
+      "opciones": [
+        "Chile",
+        "Argentina",
+        "Colombia"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "Ocupando casi todo el norte de África se extiende el desierto cálido más grande del mundo. ¿Cuál es?",
+      "opciones": [
+        "Desierto de Gobi",
+        "Desierto del Sáhara",
+        "Desierto de Kalahari"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Dónde se encuentra el río Támesis, famoso por cruzar una de las capitales más visitadas de Europa?",
+      "opciones": [
+        "Edimburgo",
+        "Londres",
+        "Dublín"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "Por la ciudad de París (Francia) pasa un río histórico que divide la capital en dos orillas. ¿Cuál es?",
+      "opciones": [
+        "El Danubio",
+        "El Sena",
+        "El Rin"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿En qué mar desemboca el río Danubio tras cruzar o limitar con diez países de Europa Central y Oriental?",
+      "opciones": [
+        "Mar Negro",
+        "Mar Caspio",
+        "Mar Báltico"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "Por la ciudad de Roma (Italia) fluye un río histórico muy ligado a los mitos fundacionales de la ciudad. ¿Cómo se llama?",
+      "opciones": [
+        "Río Tíber",
+        "Río Po",
+        "Río Arno"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es el pico más alto de la cordillera de los Alpes, situado en la frontera entre Francia e Italia?",
+      "opciones": [
+        "Monte Cervino",
+        "Mont Blanc",
+        "Monte Elbrús"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "En la cordillera del Cáucaso se alza la montaña más alta del continente europeo. ¿De cuál se trata?",
+      "opciones": [
+        "Monte Elbrús",
+        "Mont Blanc",
+        "Monte Olimpo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué gran masa de agua dulce, situada en Rusia, es el lago más grande de Europa?",
+      "opciones": [
+        "Lago Ladoga",
+        "Lago Lemán",
+        "Lago Como"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "Por Suiza y Francia se extiende un famoso lago alpino con forma de media luna. ¿Cómo se llama?",
+      "opciones": [
+        "Lago Lemán (o de Ginebra)",
+        "Lago Mayor",
+        "Lago Constanza"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es el río más largo que transcurre íntegramente por el territorio de España?",
+      "opciones": [
+        "Río Tajo",
+        "Río Ebro",
+        "Río Duero"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "El río Tajo es el más largo de toda la península ibérica. ¿En qué gran capital lusa se encuentra su desembocadura?",
+      "opciones": [
+        "Oporto",
+        "Lisboa",
+        "Coímbra"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "Por la ciudad de Sevilla fluye el único río con tráfico comercial y navegable de España. ¿Cuál es?",
+      "opciones": [
+        "Río Guadiana",
+        "Río Segura",
+        "Río Guadalquivir"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "Por la ciudad de Zaragoza pasa el río más caudaloso de España. ¿De qué río se trata?",
+      "opciones": [
+        "Río Ebro",
+        "Río Duero",
+        "Río Júcar"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es la montaña más alta de España, localizada en la isla de Tenerife (Canarias)?",
+      "opciones": [
+        "Mulhacén",
+        "El Teide",
+        "Aneto"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "En Sierra Nevada (Granada) se encuentra la cumbre más alta de la península ibérica. ¿Cómo se llama?",
+      "opciones": [
+        "Mulhacén",
+        "Pico Veleta",
+        "Aneto"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es el pico más elevado de los Pirineos, situado en el Parque Natural de Posets-Maladeta en Huesca?",
+      "opciones": [
+        "Monte Perdido",
+        "Pico Aneto",
+        "Pica d'Estats"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "En la provincia de Zamora se ubica el lago de origen glaciar más grande de la península ibérica. ¿Cuál es?",
+      "opciones": [
+        "Lago de Sanabria",
+        "Albufera de Valencia",
+        "Lago de Bañolas"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué paraje de la provincia de Almería es mundialmente conocido por ser la única zona desértica propiamente dicha de Europa Occidental?",
+      "opciones": [
+        "Desierto de los Monegros",
+        "Desierto de Tabernas",
+        "Bardenas Reales"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "Por las provincias de Zaragoza y Huesca se extiende una zona árida con un ecosistema único en Europa. ¿Qué desierto o estepa es?",
+      "opciones": [
+        "Desierto de Tabernas",
+        "Desierto de los Monegros",
+        "Cabo de Gata"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué sistema montañoso actúa como una barrera geográfica natural entre España y Francia?",
+      "opciones": [
+        "Los Pirineos",
+        "La Cordillera Cantábrica",
+        "El Sistema Central"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "Por el norte de España se extiende una cordillera paralela al mar Cantábrico. ¿Cómo se llama?",
+      "opciones": [
+        "Sistema Ibérico",
+        "Cordillera Cantábrica",
+        "Sistemas Béticos"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es el río más largo del continente europeo (sin contar los transcontinentales), que fluye completamente por Rusia?",
+      "opciones": [
+        "Río Volga",
+        "Río Danubio",
+        "Río Ural"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "Por las ciudades de Toledo y Mérida pasa un importante río peninsular antes de adentrarse en Portugal. ¿Cuál es?",
+      "opciones": [
+        "Río Guadiana",
+        "Río Tajo",
+        "Río Duero"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué cadena montañosa de América del Sur es la cordillera continental más larga del planeta?",
+      "opciones": [
+        "Las Montañas Rocosas",
+        "La cordillera de los Andes",
+        "Los Alpes Escandinavos"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué mar interior, rodeado por Asia y Europa, es considerado el lago más grande del mundo por su superficie?",
+      "opciones": [
+        "El Mar Caspio",
+        "El Mar Aral",
+        "El Mar Muerto"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es el río más largo de Asia, que fluye íntegramente por China hasta desembocar en el mar de la China Oriental?",
+      "opciones": [
+        "El río Mekong",
+        "El río Yangtsé",
+        "El río Amarillo"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué desierto, ubicado entre el sur de Mongolia y el norte de China, es famoso por sus dunas y por ser un desierto frío?",
+      "opciones": [
+        "Desierto de Gobi",
+        "Desierto de Mojave",
+        "Desierto de Sonora"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es la fosa marina más profunda del planeta, localizada en el océano Pacífico occidental?",
+      "opciones": [
+        "La fosa de Puerto Rico",
+        "La fosa de las Marianas",
+        "La fosa de Java"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es el río más largo del continente europeo, que fluye por Rusia y desemboca en el mar Caspio?",
+      "opciones": [
+        "El río Rin",
+        "El río Volga",
+        "El río Elba"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué estrecho separa el continente europeo del africano y comunica el océano Atlántico con el mar Mediterráneo?",
+      "opciones": [
+        "Estrecho de Gibraltar",
+        "Estrecho de bósforo",
+        "Estrecho de lndre"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué gran sistema montañoso actúa como frontera natural divisoria entre Europa y Asia en el territorio ruso?",
+      "opciones": [
+        "Los montes Urales",
+        "Los montes Cárpatos",
+        "Los montes Apeninos"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué gran península del norte de Europa destaca por sus impresionantes costas recortadas por profundos fiordos?",
+      "opciones": [
+        "Península lberica",
+        "Península Escandinava",
+        "Península Itálica"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué importante río europeo nace en los Alpes suizos, sirve de frontera natural entre Alemania y Francia, y desemboca en el mar del Norte?",
+      "opciones": [
+        "El río Rin",
+        "El río Vístula",
+        "El río Loira"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es el río principal de la vertiente cantábrica española, conocido por ser corto pero con un caudal muy regular?",
+      "opciones": [
+        "Río Nalón",
+        "Río Miño",
+        "Río Nervión"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué río de la vertiente atlántica nace en Galicia, forma frontera entre España y Portugal en su tramo final, y desemboca en La Guardia?",
+      "opciones": [
+        "Río Duero",
+        "Río Miño",
+        "Río Guadiana"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué sistema montañoso español divide la Meseta Central en dos submesetas (Norte y Sur)?",
+      "opciones": [
+        "El Sistema Central",
+        "La Cordillera Cantábrica",
+        "Los Sistemas Béticos"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es el pico más alto de la Cordillera Cantábrica, situado en el macizo central de los Picos de Europa?",
+      "opciones": [
+        "Torre de Cerredo",
+        "Naranjo de Bulnes",
+        "Peña Ubina"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué humedal y espacio natural protegido de Andalucía es una de las reservas biológicas más importantes de Europa?",
+      "opciones": [
+        "Las Tablas de Daimiel",
+        "El Parque Nacional de Doñana",
+        "El Delta del Ebro"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué cabo de la provincia de La Coruña era considerado en la antigüedad romana como el punto más occidental del mundo conocido?",
+      "opciones": [
+        "Cabo de Gata",
+        "Cabo de Creus",
+        "Cabo Finisterre"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué isla del archipiélago balear es la más grande de España por superficie?",
+      "opciones": [
+        "Tenerife",
+        "Mallorca",
+        "Ibiza"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Cuál es la depresión geográfica u hoya más profunda de la península ibérica, situada en Andalucía?",
+      "opciones": [
+        "La depresión del Ebro",
+        "La depresión del Guadalquivir",
+        "La depresión de Baza y Guadix"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué río español es famoso por sus aguas de color rojizo debido a la alta concentración de minerales y metales pesados en su cuenca?",
+      "opciones": [
+        "Río Tinto",
+        "Río Segura",
+        "Río Odiel"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema: Geografía del Mundo, Europa y España",
+      "pregunta": "¿Qué cabo situado en Cataluña representa el punto más oriental de toda la península ibérica?",
+      "opciones": [
+        "Cabo de San Antonio",
+        "Cabo de Creus",
+        "Cabo Machichaco"
+      ],
+      "correcta": "1"
     }
-   
   ]
 }

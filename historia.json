@@ -1,0 +1,754 @@
+{
+  "HISTORIA": [
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué faraón egipcio mandó construir la Gran Pirámide de Guiza, la más antigua de las Siete Maravillas del Mundo?",
+      "opciones": [
+        "Keops",
+        "Ramsés II",
+        "Tutankamón"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Cuál fue el código de leyes escritas más antiguo de la historia, creado en la antigua Mesopotamia?",
+      "opciones": [
+        "Las Doce Tablas",
+        "El Código de Hammurabi",
+        "La Ley del Talión de Solón"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué rey macedonio unificó las ciudades-estado griegas y conquistó el Imperio Persa antes de cumplir los 30 años?",
+      "opciones": [
+        "Filipo II",
+        "Alejandro Magno",
+        "Julio César"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "En la mitología griega, ¿cuál es el dios supremo del Olimpo, gobernante del cielo y portador del rayo?",
+      "opciones": [
+        "Poseidón",
+        "Hades",
+        "Zeus"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué líder militar cartaginés cruzó los Alpes con elefantes para atacar a Roma durante la Segunda Guerra Púnica?",
+      "opciones": [
+        "Aníbal Barca",
+        "Amílcar Barca",
+        "Escipión el Africano"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué emperador de la Dinastía Qin ordenó la primera unificación de China y la construcción inicial de la Gran Muralla?",
+      "opciones": [
+        "Qin Shi Huang",
+        "Han Wudi",
+        "Puyi"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Quién fue el primer emperador oficial del Imperio Romano tras la caída de la República y el fin de las guerras civiles?",
+      "opciones": [
+        "Julio César",
+        "César Augusto (Octavio)",
+        "Marco Antonio"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué famosa reina egipcia de la dinastía ptolemaica se alió políticamente con Julio César y Marco Antonio antes del dominio romano?",
+      "opciones": [
+        "Nefertiti",
+        "Hatshepsut",
+        "Cleopatra VII"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "En la mitología romana, ¿quién es el dios equivalente al dios griego de la guerra, Ares?",
+      "opciones": [
+        "Júpiter",
+        "Marte",
+        "Neptuno"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué rey espartano lideró a los 300 guerreros en la famosa batalla de las Termópilas contra el masivo ejército persa?",
+      "opciones": [
+        "Leónidas I",
+        "Jerjes I",
+        "Temístocles"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué antigua civilización americana de la época precolombina es famosa por su escritura jeroglífica, matemáticas y calendarios avanzados?",
+      "opciones": [
+        "Los incas",
+        "Los mayas",
+        "Los aztecas"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué filósofo griego fue el maestro de Platón y fue condenado a morir bebiendo cicuta por sus ideas?",
+      "opciones": [
+        "Aristóteles",
+        "Sócrates",
+        "Pitágoras"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué nombre recibía la clase social privilegiada del antiguo sistema romano que poseía tierras y derechos políticos exclusivos?",
+      "opciones": [
+        "Plebeyos",
+        "Patricios",
+        "Gladiadores"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué criatura mitológica con cabeza de toro y cuerpo de hombre habitaba el laberinto de Creta?",
+      "opciones": [
+        "El Centauro",
+        "El Minotauro",
+        "La Quimera"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué imperio oriental, gobernado por reyes como Ciro el Grande y Darío I, se enfrentó a los griegos en las Guerras Médicas?",
+      "opciones": [
+        "Imperio Persa",
+        "Imperio Babilonio",
+        "Imperio Asirio"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué célebre esclavo y gladiador tracio lideró la rebelión contra la República Romana en la Tercera Guerra Servil?",
+      "opciones": [
+        "Espartaco",
+        "Crixo",
+        "Marco Licinio Craso"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué dios egipcio, representado con cabeza de chacal, era el encargado de guiar las almas y presidir la momificación?",
+      "opciones": [
+        "Osiris",
+        "Anubis",
+        "Horus"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué gobernante de Atenas es considerado el padre de la democracia gracias a sus reformas políticas en el año 508 a.C.?",
+      "opciones": [
+        "Clístenes",
+        "Pericles",
+        "Solón"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué mítico acontecimiento narrado por Homero involucró un gran engaño de madera para saquear una ciudad fortificada?",
+      "opciones": [
+        "La batalla de Maratón",
+        "La Guerra de Troya",
+        "La odisea de Esparta"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué famoso río cruzó Julio César con sus legiones en el 49 a.C., desafiando al Senado e iniciando una guerra civil?",
+      "opciones": [
+        "El río Tíber",
+        "El río Rubicón",
+        "El río Rin"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "En la mitología griega, ¿qué héroe realizó los doce trabajos impuestos por el rey Euristeo tras perder la cordura?",
+      "opciones": [
+        "Aquiles",
+        "Heracles (Hércules)",
+        "Teseo"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué invento revolucionario de la ingeniería romana permitía transportar agua potable desde manantiales lejanos hasta las ciudades?",
+      "opciones": [
+        "El acueducto",
+        "El alcantarillado de piedra",
+        "La calzada romana"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué legendarios hermanos gemelos amamantados por una loba fundaron, según el mito, la ciudad de Roma en el año 753 a.C.?",
+      "opciones": [
+        "Cástor y Pólux",
+        "Rómulo y Remo",
+        "Tiberio y Gayo"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué matemático y filósofo griego descubrió el principio geométrico que relaciona los lados de un triángulo rectángulo?",
+      "opciones": [
+        "Euclides",
+        "Pitágoras",
+        "Arquímedes"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué famosa reina-faraón de la dinastía XVIII gobernó Egipto vistiéndose con barba postiza y asumiendo atributos masculinos?",
+      "opciones": [
+        "Hatshepsut",
+        "Nefertiti",
+        "Cleopatra"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué guerra enfrentó a las ciudades de Atenas y Esparta por la hegemonía del territorio griego entre el 431 y el 404 a.C.?",
+      "opciones": [
+        "Las Guerras Médicas",
+        "La Guerra del Peloponeso",
+        "Las Guerras Púnicas"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué civilización comercial del Mediterráneo destacó por crear el primer gran alfabeto fonético precursor del griego y latino?",
+      "opciones": [
+        "Los fenicios",
+        "Los cartagineses",
+        "Los etruscos"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "En la mitología romana, ¿quién era el dios del inframundo y de los muertos, equivalente al Hades griego?",
+      "opciones": [
+        "Plutón",
+        "Vulcano",
+        "Saturno"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué importante sabio de Alejandría calculó con asombrosa precisión la circunferencia de la Tierra usando la sombra de un palo?",
+      "opciones": [
+        "Ptolomeo",
+        "Eratóstenes",
+        "Hiparco de Nicea"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia y Mitología Antes de Cristo",
+      "pregunta": "¿Qué asamblea del gobierno de la República Romana estaba compuesta por los líderes de las familias patricias y controlaba las finanzas?",
+      "opciones": [
+        "El Senado",
+        "El Consulado",
+        "La Asamblea del Pueblo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué rey de los francos fue coronado como el primer Emperador del Sacro Imperio Romano Germánico en el año 800?",
+      "opciones": [
+        "Carlomagno",
+        "Clodoveo I",
+        "Carlos Martel"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué devastadora pandemia asoló Europa a mediados del siglo XIV, acabando con un tercio de su población?",
+      "opciones": [
+        "La Peste Negra",
+        "La viruela",
+        "La gripe española"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué batalla del año 712 marcó el inicio de la rápida conquista musulmana de la península ibérica?",
+      "opciones": [
+        "Batalla de Guadalete",
+        "Batalla de Covadonga",
+        "Batalla de las Navas de Tolosa"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué militar y líder musulmán reconquistó la ciudad santa de Jerusalén para el Islam en el año 1187?",
+      "opciones": [
+        "Saladino",
+        "Al-Mansur",
+        "Harún al-Rashid"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué conflicto bélico enfrentó a las Coronas de Francia e Inglaterra durante los siglos XIV y XV?",
+      "opciones": [
+        "La Guerra de los Cien Años",
+        "La Guerra de las Dos Rosas",
+        "La Guerra de los Treinta Años"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué joven heroína y campesina francesa lideró tropas contra los ingleses antes de ser capturada y quemada en la hoguera?",
+      "opciones": [
+        "Juana de Arco",
+        "Leonor de Aquitania",
+        "Isabel de Valois"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué nombre recibía el contrato y sistema político donde un noble recibía tierras de un rey a cambio de jurarle fidelidad militar?",
+      "opciones": [
+        "Vasallaje (Feudalismo)",
+        "Absolutismo monárquico",
+        "Gremio artesanal"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué papa de Roma convocó de forma oficial la Primera Cruzada en el Concilio de Clermont en el año 1095?",
+      "opciones": [
+        "Urbano II",
+        "Inocencio III",
+        "Gregorio VII"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué caída urbana en el año 1453 a manos de los otomanos es considerada por muchos historiadores como el fin de la Edad Media?",
+      "opciones": [
+        "Constantinopla",
+        "Roma",
+        "Alejandría"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué nombre recibían los guerreros escandinavos que realizaron incursiones, saqueos y comercio por toda Europa desde el siglo VIII?",
+      "opciones": [
+        "Vikingos",
+        "Visigodos",
+        "Sarracenos"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué rey castellano apodado 'El Sabio' impulsó enormemente la cultura y la Escuela de Traductores de Toledo?",
+      "opciones": [
+        "Alfonso X",
+        "Fernando III",
+        "Alfonso VI"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué importante documento constitucional fue firmado por el rey Juan I de Inglaterra ('Juan sin Tierra') en el año 1215?",
+      "opciones": [
+        "La Carta Magna",
+        "El Código de Justiniano",
+        "Las Siete Partidas"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué estilo arquitectónico medieval destaca por el uso de arcos apuntados, bóvedas de crucería y grandes vidrieras de colores?",
+      "opciones": [
+        "Gótico",
+        "Románico",
+        "Bizantino"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué militar franco frenó la invasión musulmana en Europa occidental durante la famosa batalla de Poitiers en el año 732?",
+      "opciones": [
+        "Carlos Martel",
+        "Pipino el Breve",
+        "Luis el Piadoso"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia Medieval",
+      "pregunta": "¿Qué gran ruta comercial terrestre conectaba el extremo oriente de Asia con los mercados europeos durante el medievo?",
+      "opciones": [
+        "La Ruta de la Seda",
+        "La Ruta de las Especias",
+        "La Vía Apia"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué navegante genovés llegó a América en 1492 bajo el patrocinio de los Reyes Católicos, marcando el inicio de la Edad Moderna?",
+      "opciones": [
+        "Cristóbal Colón",
+        "Américo Vespucio",
+        "Vasco da Gama"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué monje alemán inició la Reforma Protestante en 1517 al clavar sus 95 tesis en la puerta de la iglesia de Wittenberg?",
+      "opciones": [
+        "Martín Lutero",
+        "Juan Calvino",
+        "Enrique VIII"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué marino español completó la primera circunnavegación de la Tierra tras la muerte de Fernando de Magallanes en 1521?",
+      "opciones": [
+        "Juan Sebastián Elcano",
+        "Francisco Pizarro",
+        "Vasco Núñez de Balboa"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué polímata polaco formuló la teoría heliocéntrica, demostrando que la Tierra y los planetas giran alrededor del Sol?",
+      "opciones": [
+        "Nicolás Copérnico",
+        "Galileo Galilei",
+        "Johannes Kepler"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué monarca inglés se separó de la Iglesia católica de Roma en 1534 para fundar la Iglesia anglicana?",
+      "opciones": [
+        "Enrique VIII",
+        "Carlos I",
+        "Jacobo I"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué rey español del siglo XVI gobernó el imperio donde 'nunca se ponía el sol' y fijó la capital en Madrid?",
+      "opciones": [
+        "Felipe II",
+        "Carlos I",
+        "Felipe IV"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué rey de Francia, conocido como el 'Rey Sol', fue el máximo exponente del absolutismo monárquico en Europa?",
+      "opciones": [
+        "Luis XIV",
+        "Luis XVI",
+        "Francisco I"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué prolongado conflicto europeo entre católicos y protestantes (1618-1648) terminó con la firma de la Paz de Westfalia?",
+      "opciones": [
+        "La Guerra de los Treinta Años",
+        "La Guerra de los Siete Años",
+        "La Guerra de los Ochenta Años"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué zar modernizó Rusia a finales del siglo XVII y fundó una nueva capital imperial con salida al mar Báltico?",
+      "opciones": [
+        "Pedro el Grande",
+        "Iván el Terrible",
+        "Nicolás II"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué movimiento cultural e intelectual del siglo XVIII promovía el uso de la razón y la ciencia frente al absolutismo?",
+      "opciones": [
+        "La Ilustración",
+        "El Renacimiento",
+        "El Romanticismo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué tratado de paz firmado en 1713 puso fin a la Guerra de Sucesión Española y supuso la pérdida de Gibraltar para España?",
+      "opciones": [
+        "Tratado de Utrecht",
+        "Tratado de Tordesillas",
+        "Tratado de Versalles"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué científico inglés publicó en 1687 las leyes del movimiento y la ley de la gravitación universal?",
+      "opciones": [
+        "Isaac Newton",
+        "Francis Bacon",
+        "René Descartes"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué revolucionario invento de tipos móviles, perfeccionado por Johannes Gutenberg hacia 1440, expandió la cultura moderna?",
+      "opciones": [
+        "La imprenta",
+        "El astrolabio",
+        "El papel pergamino"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué sistema económico basado en la acumulación de metales preciosos y el proteccionismo dominó Europa durante los siglos XVI y XVII?",
+      "opciones": [
+        "Mercantilismo",
+        "Fisiocracia",
+        "Capitalismo industrial"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Moderna",
+      "pregunta": "¿Qué gran acontecimiento de 1789 provocó la caída del Antiguo Régimen en Francia y marca tradicionalmente el fin de la Edad Moderna?",
+      "opciones": [
+        "La Revolución Francesa",
+        "La Independencia de EE.UU.",
+        "La Revolución Industrial"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué militar francés se coronó emperador en 1804 y conquistó gran parte de Europa antes de su derrota definitiva en Waterloo?",
+      "opciones": [
+        "Napoleón Bonaparte",
+        "Luis XVI",
+        "Maximilien Robespierre"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿En qué país comenzó a mediados del siglo XVIII la Revolución Industrial, transformando la economía mundial con la máquina de vapor?",
+      "opciones": [
+        "Francia",
+        "Gran Bretaña",
+        "Alemania"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué presidente estadounidense abolió oficialmente la esclavitud en el país durante la Guerra de Secesión en 1863?",
+      "opciones": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué canciller prusiano, conocido como el 'Canciller de Hierro', lideró el proceso de unificación de Alemania en 1871?",
+      "opciones": [
+        "Otto von Bismarck",
+        "Guillermo II",
+        "Klemens von Metternich"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué magnicidio en Sarajevo en junio de 1914 se considera el detonante directo del estallido de la Primera Guerra Mundial?",
+      "opciones": [
+        "El del archiduque Francisco Fernando",
+        "El del zar Nicolás II",
+        "El del rey Alfonso XIII"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué revolucionario político lideró la Revolución Rusa de October de 1917 y fundó el estado que daría origen a la URSS?",
+      "opciones": [
+        "Vladímir Lenin",
+        "Iósif Stalin",
+        "León Trotski"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué colapso financiero del mercado de valores de Nueva York en octubre de 1929 dio inicio a la Gran Depresión mundial?",
+      "opciones": [
+        "El Crack del 29 (Jueves Negro)",
+        "La crisis de los tulipanes",
+        "El pánico bancario de 1907"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Con qué invasión militar comenzó formalmente la Segunda Guerra Mundial en Europa el 1 de septiembre de 1939?",
+      "opciones": [
+        "La invasión de Polonia por Alemania",
+        "La anexión de Austria",
+        "La ocupación de Francia"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué organismo internacional se fundó en 1945, justo al terminar la Segunda Guerra Mundial, para mantener la paz entre naciones?",
+      "opciones": [
+        "La Sociedad de Naciones",
+        "La Organización de las Naciones Unidas (ONU)",
+        "La Unión Europea"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué nombre recibió el periodo de tensión geopolítica e ideológica entre Estados Unidos y la URSS tras la Segunda Guerra Mundial?",
+      "opciones": [
+        "La Guerra Fría",
+        "La Guerra de los Balcanes",
+        "La Pax Americana"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué activista indio lideró la independencia de su país frente al Imperio Británico utilizando la resistencia pacífica?",
+      "opciones": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Nelson Mandela"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué hito histórico de la carrera espacial se alcanzó el 20 de julio de 1969 con la misión estadounidense Apolo 11?",
+      "opciones": [
+        "La llegada del ser humano a la Luna",
+        "El lanzamiento del primer satélite artificial",
+        "El primer viaje tripulado a la órbita terrestre"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué histórico muro divisorio cayó en noviembre de 1989, anticipando el fin de la Guerra Fría y la reunificación de Alemania?",
+      "opciones": [
+        "El Muro de Berlín",
+        "El Muro de Adriano",
+        "La Cortina de Hierro"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué político y activista sudafricano fue liberado tras 27 años en prisión y se convirtió en el primer presidente negro de su país?",
+      "opciones": [
+        "Nelson Mandela",
+        "Desmond Tutu",
+        "Kofi Annan"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Historia de la Edad Contemporánea",
+      "pregunta": "¿Qué tratado firmado en 1992 entró en vigor al año siguiente dando nacimiento oficial a la Unión Europea actual?",
+      "opciones": [
+        "Tratado de Maastricht",
+        "Tratado de Roma",
+        "Tratado de Lisboa"
+      ],
+      "correcta": "0"
+    }
+  ]
+}

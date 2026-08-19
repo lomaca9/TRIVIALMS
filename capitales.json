@@ -489,6 +489,307 @@
         "Ejea de los Caballeros"
       ],
       "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Australia, una ciudad planificada expresamente para cumplir esta función?",
+      "opciones": [
+        "Sídney",
+        "Melbourne",
+        "Canberra"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad es la capital de Canadá, situada en la provincia de Ontario?",
+      "opciones": [
+        "Toronto",
+        "Ottawa",
+        "Montreal"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital del estado de Brasil, diseñada por el arquitecto Oscar Niemeyer?",
+      "opciones": [
+        "Río de Janeiro",
+        "Brasilia",
+        "São Paulo"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad ostenta el título de ser la capital más alta del mundo sobre el nivel del mar?",
+      "opciones": [
+        "La Paz",
+        "Quito",
+        "Bogotá"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Marruecos, sede del gobierno y residencia oficial del rey?",
+      "opciones": [
+        "Casablanca",
+        "Marrakech",
+        "Rabat"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad es la capital de Sudáfrica en lo que respecta a sus funciones legislativas?",
+      "opciones": [
+        "Ciudad del Cabo",
+        "Pretoria",
+        "Johannesburgo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Japón, conocida por ser el área metropolitana más poblada de la Tierra?",
+      "opciones": [
+        "Kioto",
+        "Tokio",
+        "Osaka"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad es la capital de Suiza y ejerce como su sede administrativa federal?",
+      "opciones": [
+        "Zúrich",
+        "Ginebra",
+        "Berna"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Islandia, famosa por ser la capital más septentrional del planeta?",
+      "opciones": [
+        "Reikiavik",
+        "Oslo",
+        "Helsinki"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad es la capital de los Emiratos Árabes Unidos, conocida por su gran desarrollo comercial y financiero?",
+      "opciones": [
+        "Dubái",
+        "Abu Dabi",
+        "Doha"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de la India, una subdivisión urbana integrada dentro de la metrópolis de Delhi?",
+      "opciones": [
+        "Bombay",
+        "Calcuta",
+        "Nueva Delhi"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad europea es la capital de Polonia y fue completamente reconstruida tras la Segunda Guerra Mundial?",
+      "opciones": [
+        "Varsovia",
+        "Cracovia",
+        "Praga"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Turquía, situada en la región de Anatolia Central?",
+      "opciones": [
+        "Estambul",
+        "Ankara",
+        "Esmirna"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad caribeña es la capital de Jamaica?",
+      "opciones": [
+        "Kingston",
+        "Nasáu",
+        "La Habana"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Egipto, la mayor ciudad del mundo árabe y de África?",
+      "opciones": [
+        "Alejandría",
+        "El Cairo",
+        "Giza"
+      ],
+      "correcta": "1"
+    },
+
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Kazajistán, una ciudad que destaca por su arquitectura futurista en Asia Central?",
+      "opciones": [
+        "Taskent",
+        "Astracán",
+        "Astaná"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad es la capital de Nueva Zelanda, conocida por ser la capital más meridional del mundo?",
+      "opciones": [
+        "Auckland",
+        "Wellington",
+        "Christchurch"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Vietnam, situada en la región norteña del país?",
+      "opciones": [
+        "Hanói",
+        "Ciudad Ho Chi Minh",
+        "Da Nang"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad es la capital de Nigeria, establecida en el centro del país para garantizar neutralidad política y étnica?",
+      "opciones": [
+        "Lagos",
+        "Abuya",
+        "Ibadán"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Kenia, conocida como la capital del safari de África Oriental?",
+      "opciones": [
+        "Mombasa",
+        "Nairobi",
+        "Kisumu"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad báltica es la capital de Estonia, famosa por su casco antiguo medieval perfectamente conservado?",
+      "opciones": [
+        "Tallin",
+        "Riga",
+        "Vilna"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Rumanía, apodada históricamente como 'El pequeño París'?",
+      "opciones": [
+        "Sofía",
+        "Bucarest",
+        "Budapest"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad es la capital de Ucrania, cruzada por el histórico río Dniéper?",
+      "opciones": [
+        "Járkov",
+        "Odesa",
+        "Kiev"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Corea del Sur, considerada una de las metrópolis tecnológicas más avanzadas de Asia?",
+      "opciones": [
+        "Seúl",
+        "Busan",
+        "Incheon"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad del sudeste asiático es la capital de Filipinas, situada en la isla de Luzón?",
+      "opciones": [
+        "Cebú",
+        "Manila",
+        "Davao"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital oficial y sede del gobierno de Bolivia, según su constitución?",
+      "opciones": [
+        "La Paz",
+        "Sucre",
+        "Santa Cruz de la Sierra"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad es la capital de Ecuador, célebre por albergar el centro histórico mejor conservado de América?",
+      "opciones": [
+        "Guayaquil",
+        "Cuenca",
+        "Quito"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Pakistán, diseñada en la década de 1960 para sustituir a Karachi?",
+      "opciones": [
+        "Lahore",
+        "Islamabad",
+        "Faisalabad"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Qué ciudad es la capital de los Países Bajos, aunque la sede del gobierno se encuentre en La Haya?",
+      "opciones": [
+        "Ámsterdam",
+        "Róterdam",
+        "Utrecht"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: Capitales del Mundo",
+      "pregunta": "¿Cuál es la capital de Arabia Saudita, situada en el centro de la península arábiga?",
+      "opciones": [
+        "Yeda",
+        "La Meca",
+        "Riad"
+      ],
+      "correcta": "2"
     }
   ]
 }
